@@ -1,0 +1,395 @@
+{
+  "media": {
+    "collection": {
+      "/media/video1": {
+        "title": "Tour the Thinkubator Innovation Studios – Panoramic Views Reveal Amazing Meeting Space",
+        "published": true,
+        "date": "2015-04-08 18:19:40 UTC",
+        "slug": "/media/video1",
+        "body": "\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/mszirIf_ID8\" frameborder=\"0\" allowfullscreen></iframe>",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1428517180.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-08T13:19:40-05:00"
+      },
+      "/media/video2": {
+        "title": "Tour the Thinkubator Innovation Studios – Panoramic Views Reveal Amazing Meeting Space",
+        "published": true,
+        "date": "2015-04-08 18:19:40 UTC",
+        "slug": "/media/video2",
+        "body": "\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/1UlglWL0tTY\" frameborder=\"0\" allowfullscreen></iframe>",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1428517180.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-08T13:19:40-05:00"
+      },
+      "/media/video3": {
+        "title": "Highlights of 2-Day Innovation Workshop at the Thinkubator (Time-lapse)",
+        "published": true,
+        "date": "2015-04-08 18:19:40 UTC",
+        "slug": "/media/video3",
+        "body": "\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/HLjExbfnrhI\" frameborder=\"0\" allowfullscreen></iframe>",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1428517180.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-08T13:19:40-05:00"
+      },
+      "/media/gallery1": {
+        "title": "Gallery1",
+        "published": true,
+        "date": "2015-04-08 18:19:40 UTC",
+        "slug": "/media/gallery1",
+        "body": "\n\n\t<link href=\"assets/jquery.bxslider/jquery.bxslider.css\" rel=\"stylesheet\" />\n\n\n\t<script src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js\"></script>\n\t<script src=\"assets//jquery.bxslider/jquery.bxslider.min.js\"></script>\n\n\n\n\n<ul class=\"bxslider\">\n\t<li><img src=\"assets/img/gallery1/Slide01.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide02.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide03.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide04.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide05.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide06.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide07.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide08.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide09.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide10.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide11.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide12.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide13.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide14.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide15.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide16.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide17.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide18.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide19.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide20.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide21.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide22.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide23.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide24.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide25.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide26.png\"/></li>\n\t<li><img src=\"assets/img/gallery1/Slide27.png\"/></li>\n</ul>\n\n<script>\n\t$(document).ready(function(){\n\t\t$('.bxslider').bxSlider({\n\t\t\tmode: 'horizontal'\n\t\t});\n\t});\n</script>\n\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1428517180.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-08T13:19:40-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "tour the thinkubator innovation studios – panoramic views reveal amazing meeting space": [
+          "/media/video1",
+          "/media/video2"
+        ],
+        "highlights of 2-day innovation workshop at the thinkubator (time-lapse)": [
+          "/media/video3"
+        ],
+        "gallery1": [
+          "/media/gallery1"
+        ]
+      },
+      "transliterated-title": {
+        "tour-the-thinkubator-innovation-studios--panoramic-views-reveal-amazing-meeting-space": [
+          "/media/video1",
+          "/media/video2"
+        ],
+        "highlights-of-2-day-innovation-workshop-at-the-thinkubator-time-lapse": [
+          "/media/video3"
+        ],
+        "gallery1": [
+          "/media/gallery1"
+        ]
+      },
+      "slug": {
+        "/media/video1": [
+          "/media/video1"
+        ],
+        "/media/video2": [
+          "/media/video2"
+        ],
+        "/media/video3": [
+          "/media/video3"
+        ],
+        "/media/gallery1": [
+          "/media/gallery1"
+        ]
+      },
+      "transliterated-slug": {
+        "/media/video1": [
+          "/media/video1"
+        ],
+        "/media/video2": [
+          "/media/video2"
+        ],
+        "/media/video3": [
+          "/media/video3"
+        ],
+        "/media/gallery1": [
+          "/media/gallery1"
+        ]
+      },
+      "month": {
+        "04": [
+          "/media/video1",
+          "/media/video2",
+          "/media/video3",
+          "/media/gallery1"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/media/video1",
+          "/media/video2",
+          "/media/video3",
+          "/media/gallery1"
+        ]
+      },
+      "ticks": {
+        "1428517180.0": [
+          "/media/video1",
+          "/media/video2",
+          "/media/video3",
+          "/media/gallery1"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/media/video1",
+          "/media/video2",
+          "/media/video3",
+          "/media/gallery1"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-08t13:19:40-05:00": [
+          "/media/video1",
+          "/media/video2",
+          "/media/video3",
+          "/media/gallery1"
+        ]
+      }
+    }
+  },
+  "home": {
+    "collection": {
+      "/home/home": {
+        "title": "The Thinkubator: Inspiring Minds Since 1989",
+        "published": true,
+        "date": "2015-04-30 18:32:03 UTC",
+        "slug": "/home/home",
+        "body": "\n<h2>Watch these Videos to discover the Thinkubator Experience</h2>\n\n<h3>Energetic 60-Second Tour</h3>\n\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/mszirIf_ID8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n<h3>Relaxing 4-Minute Tour</h3>\n\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/1UlglWL0tTY\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n<h3>View 90-Second Time-Lapse of 2-Day Event</h3>\n\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/HLjExbfnrhI\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n<p>312 N. May, Suite 6D, Chicago, IL 60607, USA<br />\n312.829.BULB (2852) · <a href=\"&#109;&#097;&#105;&#108;&#116;&#111;:&#073;&#110;&#102;&#111;&#064;&#084;&#104;&#105;&#110;&#107;&#117;&#098;&#097;&#116;&#111;&#114;&#115;&#046;&#099;&#111;&#109;\">&#073;&#110;&#102;&#111;&#064;&#084;&#104;&#105;&#110;&#107;&#117;&#098;&#097;&#116;&#111;&#114;&#115;&#046;&#099;&#111;&#109;</a></p>\n\n<p><strong>Take a break from traditional conference, hotel or “bored” rooms and experience Chicago’s “Most Creative Meeting Space”.</strong></p>\n\n<p>Since 1989, thousands of people have enjoyed innovative and creative meetings, workshops, facilitations, retreats and special events at our comfortable, unique and thought-provoking Thinkubator.</p>\n\n<p><strong>“If you want people to think outside the box, do NOT put their brains in a box.”</strong><br />\n- Gerald “Solutionman” Haman, Thinkubator Founder</p>\n\n<p>Located in downtown Chicago, a mile from the Loop and two miles from the Magnificent Mile, the Thinkubator offers comfortable and interesting furniture in an elegant loft environment. Our dazzling skyline view of Chicago and café-style  seating on our private rooftop deck inspires blue-sky thinking and offers a refreshing brain break to guests. Too cold to be outside? Enjoy a crackling wood-burning fire while the piano player plays music in the background or sing your favorite Karaoke songs under our spinning disco ball! Get more work done while having fun! Stimulate your team’s brainpower with our facilitation resources, the latest AV technology and innovation  tools that deliver meaningful and measurable results.</p>\n\n<h3>Rent Our Space, Borrow Our Brains, or Use Your Own!</h3>\n\n<p>Bring your own facilitator or moderator or ask us about our Certified Innovation Facilitators, Trainers &amp; Designers. We’re recommended by and featured in <strong>Fast Company, Investors Business Daily, Crain’s Chicago Business, CLTV &amp; HGTV</strong></p>\n\n<h3>Benchmark the Brains of the Best Innovators Who Have Used the Thinkubator</h3>\n\n<p>Many of the world’s most innovative companies have spent time at The Thinkubator and created thousands of breakthrough ideas. Over 10,000 innovators from the following organizations experienced the Thinkubator.</p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1430418723.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-30T13:32:03-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "the thinkubator: inspiring minds since 1989": [
+          "/home/home"
+        ]
+      },
+      "transliterated-title": {
+        "the-thinkubator-inspiring-minds-since-1989": [
+          "/home/home"
+        ]
+      },
+      "slug": {
+        "/home/home": [
+          "/home/home"
+        ]
+      },
+      "transliterated-slug": {
+        "/home/home": [
+          "/home/home"
+        ]
+      },
+      "month": {
+        "04": [
+          "/home/home"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/home/home"
+        ]
+      },
+      "ticks": {
+        "1430418723.0": [
+          "/home/home"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/home/home"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-30t13:32:03-05:00": [
+          "/home/home"
+        ]
+      }
+    }
+  },
+  "rentfaq": {
+    "collection": {
+      "/rentfaq/rentfaq": {
+        "title": "Get more work done while having fun at the Thinkubator!",
+        "published": true,
+        "date": "2015-04-30 18:32:03 UTC",
+        "slug": "/rentfaq/rentfaq",
+        "body": "\n<p><strong>Daily Rental:</strong> $4000/day (10 Hours)<br />\n<strong>2-3 Day Multiple Day Rentals:</strong> $3500/day<br />\n<strong>4 + Multiple Day Rentals:</strong> $3300/day<br />\nIncludes access as early as 7:00AM to accommodate any set-up needs and an end time of 5:30PM<br />\nAny additional time is billed at $100/hour<br />\n<strong>Half-Day Rental</strong> $2500 (4 hours or less)</p>\n\n<h2>How much space will I have for my group?</h2>\n\n<p>Over 3,000 square feet of space! Enjoy our Skyline Room, Solutionarium, Lounge Loft, Full Kitchen, 2 Bathrooms, Technology &amp; Entertainment Resources, Basic Brainstorming Supplies, Hot &amp; Cold Beverage Package and access to our Private Rooftop Deck!</p>\n\n<h2>Skyline Room:</h2>\n<p>– Features over 2,000 sf of open space<br />\n– Comfortably accommodates up to 40 guests<br />\n– Includes Facilitation area (30’ 28’) with 10 monitors for optimal viewing<br />\n– Dining/Facilitation Area (17’ x 22’) includes table that seats up to 12<br />\n– Dining/Facilitation Area has 3 monitors for viewing<br />\n– Beautiful view of Chicago skyline from five 10′ x 10’ windows<br />\n– Wood-burning fireplace<br />\n– Interesting furniture<br />\n– Portable coffee tables and rolling computer desks<br />\n-18’ ceilings to inspire blue-sky thinking!</p>\n\n<h2>Lounge Loft Breakout Room</h2>\n<p>– 12’ x 10’, overlooks our “Skyline Room”<br />\n– Ideal breakout for 4-5, has a lower ceiling at 6’</p>\n\n<h2>If the weather is nice, can we dine or work outside?</h2>\n<p>Yes, we have a beautiful Private Rooftop Deck which features:<br />\n– Panoramic view of downtown Chicago<br />\n– Café-style seating for 30</p>\n\n<h2>Are any other amenities included?</h2>\n<p>Other Amenities available for your use include:<br />\n– Access to a full kitchen<br />\n– 2 bathrooms</p>\n\n<h2>Do you offer any support staff to our group?</h2>\n<p>Yes, you will have a Host/Hostess for the day to:<br />\n– Attend to guests’ needs<br />\n– Receive any deliveries<br />\n– Set up/clean up any non-catered food<br />\n– Maintain cleanliness of space throughout the day</p>\n\n<h2>What technology resources are included in my rental?</h2>\n<p>Technology Resources include:<br />\n– 12 LCD/LED television/monitors: 80”, 70”,  60”<br />\n– Wireless internet access<br />\n– A staff member to help you navigate your way through any of our resource or entertainment options the day of your rental!</p>\n\n<h2>Do you have any fun resources for us to enjoy during any breaks?</h2>\n<p>Yes, the following Entertainment Options are included:<br />\n– Grand Player Piano with selection of 4000 songs<br />\n– Comcast/Xfinity Digital Cable<br />\n– Spotify Music License<br />\n– Sirius Satellite Music<br />\n– Wireless Karaoke with over 10000 songs<br />\n– XBOX and PlayStation<br />\n– Apple TV<br />\n– Retro video games including Pacman, Frogger, Centipede &amp; Pong</p>\n\n<h2>We don’t want to drag too much stuff, what about flip chart stands and supplies?</h2>\n<p>We offer Basic Brainstorming Supplies for your use including:<br />\n–  6 flip chart stands &amp; 2 display easels<br />\n– Flip charts &amp; Post-its<br />\n– Markers, pens and painter’s tape for posting on windows and walls</p>\n\n<h2>We’ll be thirsty, what about beverages?</h2>\n<p>Enjoy our Unlimited Hot &amp; Cold Beverage Package: <br />\n– Diet and regular soda<br />\n– Reg &amp; Decaf Coffee<br />\n– Tea<br />\n– Bottled Water</p>\n\n<h2>We’ll be hungry, what about breakfast or lunch?</h2>\n<p>You are welcome to use any caterer of your choice or order from any local restaurant.<br />\nYou can even bring your own food and any additional beverages!<br />\nWe do not arrange your food orders or plan your meals, but offer the following suggestions that our guests have enjoyed over the years.</p>\n\n<h3>Catering Options:</h3>\n<p>Use ANY catering company of your choice or have the Thinkubator provide an all-inclusive package that ranges from $99 to $199 per person.</p>\n\n<h2>We are on a budget, what are some other food options?</h2>\n<p>Order online or call any local restaurant of your choice for budget friendly options.<br />\nEnjoy sandwiches from Jimmy John’s, Potbelly, Corner Bakery or Bari Foods, or try some Chicago Style Pizza from Lou Malnati’s, Giordanos or Gino’s.</p>\n\n<p>Please have all food deliveries arrive no earlier than 7:00AM. <br />\nDeliver to:<br />\nSolutionPeople<br />\n312 N. May Street, Suite 6D<br />\nChicago, IL 60607<br />\n312-829-2852</p>\n\n<h2>We might still be hungry, what about snacks?</h2>\n<p>Order a snack to be delivered with your lunch order to enjoy later, bring your own or purchase one from us:</p>\n\n<h2>Our unlimited “Brain Food” package, $250/for up to 30 guests:</h2>\n<p>– Breakfast bars<br />\n– Assorted Candy<br />\n– Nut and Trail Mix<br />\n– An Assortment of Chips</p>\n\n<p><strong>Please note:</strong> that no alcohol may be served unless a licensed caterer has made specific arrangements with us in advance.</p>\n\n<h2>Where do we park and how do we get there?</h2>\n<p>Parking &amp; Directions:<br />\nThere is a 15 minute loading zone (please put on your hazards) in front of the building for any quick site visits or unloading needs. We are located at the building’s north entrance with the green awning that reads, 312 Warehouse Lofts (closest to Carroll Street).</p>\n\n<p>We are located 10 blocks west of Halsted, between Lake Street and Grand Avenue. Please visit Mapquest or Google Maps or consult with your smartphone for specific directions from your location.</p>\n\n<p>XXXX</p>\n\n<h2>What about public transportation?</h2>\n<p>The New Green Line is 2 blocks away<br />\nThe Metra train stop at Ogilvie, (500 West Madison), is one mile away, is a 5-6 minute taxi ride, taxi’s are readily available outside the station, or a 20-25 minute walk.<br />\nThe Blue Line Chicago Ave. stop (Chicago/Milwaukee/Ogden intersection)<br />\nis .7 miles away, a 10-15-minute walk or 4 minute taxi ride, if available.<br />\nThe Blue Line Grand Ave. stop (Grand/Milwaukee/Halsted intersection) is .7 miles away, a 10-15-minute walk or a 4 minute taxi ride, if available.<br />\nThere is a Grand Ave. CTA bus at this location that will take you to May Street which is approximately 8 blocks west.</p>\n\n<p>Please visit transitchicago.com to help you plan your trip.</p>\n\n<p>Yellow Taxi is available 24/7 at 312-829-4222.</p>\n\n<p>You may schedule a specific pick-up time as long as it is at least 30 minutes in advance. Flying home? Check your flight time and schedule your pick-up accordingly.</p>\n\n<p>To schedule a pick-up please call and provide your pick-up address, your name and your final destination. Again, we are located at 312 North May Street.  You will receive a call back with your taxi number when your taxi arrives. Most taxis will only wait 5 minutes so please be prepared to leave.</p>\n\n<h2>Where we can we stay?</h2>\n<p>The Thinkbator is an 8-15 minute taxi ride from most downtown Hotels. We are located a mile from the Loop and two miles from the Magnificent Mile. Visit expedia.com, orbitz.com or hotrooms.com for last minute hotel deals.</p>\n\n<h2>One Final Note!</h2>\n<p>The Thinkubator is located in a non-smoking building smoking is prohibited on our deck, on the catwalks or in our Thinkubator.  Your cooperation is appreciated.</p>\n\n<h2>Still have questions?</h2>\n<p>Please call 312-829-2852 or email us at <a href=\"&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#105;&#110;&#107;&#117;&#098;&#097;&#116;&#111;&#114;&#115;&#046;&#099;&#111;&#109;\">&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#105;&#110;&#107;&#117;&#098;&#097;&#116;&#111;&#114;&#115;&#046;&#099;&#111;&#109;</a></p>\n\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1430418723.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-30T13:32:03-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "get more work done while having fun at the thinkubator!": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "transliterated-title": {
+        "get-more-work-done-while-having-fun-at-the-thinkubator": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "slug": {
+        "/rentfaq/rentfaq": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "transliterated-slug": {
+        "/rentfaq/rentfaq": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "month": {
+        "04": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "ticks": {
+        "1430418723.0": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/rentfaq/rentfaq"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-30t13:32:03-05:00": [
+          "/rentfaq/rentfaq"
+        ]
+      }
+    }
+  },
+  "news": {
+    "collection": {
+      "/news/innovateordietrying": {
+        "title": "Innovate or Die Trying: Think Outside the Office",
+        "published": true,
+        "date": "2015-04-30 18:32:03 UTC",
+        "slug": "/news/innovateordietrying",
+        "body": "\n<p>[from Training magazine]</p>\n\n<p><img src=\"http://thinkubators.com/wp-content/uploads/Training_Magazine-article-on-the-Thinkubator.jpg\" alt=\"\" /></p>\n\n<p>If you want to physically take workers away from the environment that’s been causing their stagnation, consider the Chicago based Thinkubator. Here there’s an atmosphere founder and President Gerald Haman says is conducive to novel thinking. Owned and operated innovation training and development firm Solution People in Chicago, which Haman also heads, the facility includes giant chair sculptures, disco lighting, a sound system, a professional karaoke system and a rooftop sun deck with panoramic skyline views of the city. “Many people focus innovation and creativity training on what happens inside of people’s minds,” Haman says. “I’ve found that it’s also important to pay attention to what goes on outside of people’s heads, thereby looking at the physical environment.”</p>\n\n<p>The goal, he stresses, is to make sure participants feel comfortable, inspired, and stimulated. To do this, the venue was created with what Haman calls the “four Ps of innovative environments:” the personal space, partnership space, public space, and personal computer (PC) space. Each of these areas, he says, serves a key purpose in the creativity process. The wide-ranging view of Chicago that can be seen from the “public spaces” rooftop sundeck for example, helps employees accomplish what Haman refers to as “blue sky thinking,” or thinking that emphasize new possibilities rather than limitations. The partnership space enables participants to break up into small work groups or ”innovation dream teams.” The personal spaces allow workers to relax and concentrate on challenges individually. The PC space gives companies the option of incorporating learning software, such as an electronic version of Haman’s KnowBrainer brainstorming card deck tool, or other computer programs, into their session.</p>\n\n<p>The creative exercises conducted at the Thinkubator also can be revealing of workers’ personalities. Haman says, for instance, you can learn a lot by enabling people you’ve only known in an office setting to sing karaoke. “We’ve found that the people who are willing to sing karaoke,” he notes, “are the ones who are willing to take risks and generate more ideas.” -M.W.</p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1430418723.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-30T13:32:03-05:00"
+      },
+      "/news/investorsbusinessdaily": {
+        "title": "Investors Business Daily",
+        "published": true,
+        "date": "2015-04-30 18:32:03 UTC",
+        "slug": "/news/investorsbusinessdaily",
+        "body": "\n<p><img src=\"http://thinkubators.com/wp-content/uploads/id-e1311614582996.jpg\" alt=\"\" /></p>\n\n<h2>Making Your Environment Inspirational</h2>\n\n<p>Can a person’s physical environment affect innovation?</p>\n\n<p>Alex F. Osborn, a pioneer in the field of deliberate creativity, believed the answer was a resounding “Yes.”</p>\n\n<p>“Urban life tends to sap imaginative strength in all except the few who work in the arts and in creative phases of business and science,” he wrote in ‘Applied Imagination: Principles and procedures of Creative Problem-Solving,” first published in 1953.</p>\n\n<p>To counter the negative effects of this “urbanization,” Osborn challenged people to take deliberate steps “to conserve and develop the imaginative talents with which we are born.”</p>\n\n<p>One natural step: Redesign and deinstitutionalize the work environment so that it fosters creative thinking.</p>\n\n<p>“I have long recognized that the external environment influences what goes on inside the head,” said Gerald “Solutionman” Haman, a creativity expert based in Chicago. Thousands of business people who’ve visited Haman’s ‘Thinkubator” – a creative meeting space reminiscent of a colorful kindergarten playroom stocked with adult-size gadgets, toys, tools, fun furniture and supplies – say they’ve saved 40% to 60% of their time generating ideas in the creative environment vs. the cold office space in which they spend their days.</p>\n\n<p><strong>Why do people find the Thinkubator’s environment so stimulating? In part because the meeting space excites all five senses. Among other things, it features:</strong></p>\n\n<ul>\n  <li>Ergonomically designed chairs – that simulates floating, simultaneously soothing and stimulating the mind.</li>\n  <li>Hundreds of toys and creativity tools – from modeling clay to crayons to wall-size, printer-ready whiteboards.</li>\n  <li>The relaxing scent of lavender, peppermint and other aromas.</li>\n  <li>A variety of sounds, including music that brainstormers can make themselves using the Thinkubator’s grand piano or karaoke machines.</li>\n</ul>\n\n<p>“By fostering a diversity of stimulation, you get more diversity of thought and a wider variety of creative ideas,” Haman said.</p>\n\n<p>By Linda Stockman-Vines</p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1430418723.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-30T13:32:03-05:00"
+      },
+      "/news/crainschicagobusiness": {
+        "title": "Crain's Chicago Business",
+        "published": true,
+        "date": "2015-04-30 18:32:03 UTC",
+        "slug": "/news/crainschicagobusiness",
+        "body": "\n<p><img src=\"http://thinkubators.com/images/crains.png\" alt=\"\" /><br />\nfrom <a href=\"http://www.chicagobusiness.com/article/20100925/ISSUE02/100929931/chicagos-best-meeting-spaces-for-idea-generation\">Crain’s ChicagoBusiness.com</a><br />\nBy: Michelle Evans</p>\n\n<p>Thinkubator Ranked as one of Chicago’s Best Meeting Spaces for Idea-Generation by Crain’s Chicago Business<br />\nThe venue removes employees from their typical office settings and put them in a space that will ignite their imaginations.</p>\n\n<h2>THINKUBATOR</h2>\n\n<p><strong>Capacity:</strong> The main room can seat 20 to 40 people.</p>\n\n<p><strong>Cost:</strong> A day’s rental is a flat fee of $2,500 to $4,500 and includes supplies and technology services. Guests can order breakfast, lunch or dinner from any number of nearby restaurants for an additional fee.</p>\n\n<p><strong>Why:</strong> The Thinkubator studio is a creative haven in the West Loop neighborhood of Fulton Market. Its loft-style space has 19-foot ceilings, a winding staircase to the building’s rooftop terrace, exposed brick walls and large windows that showcase the Chicago skyline. The idea is to turn the typical work environment on its side. “Cubical creativity is such a big challenge,” says President Gerald Haman, whose primary business is an innovation and creativity coaching company called SolutionPeople. “The size of people’s ideas is proportional to the size of perceived space they think they have to think.” Mr. Haman uses functional art in the shape of question marks, red lip-shaped chairs and an Einstein-themed bathroom to invoke guests’ creative side. Staff even will arrange for the Good Humor ice cream truck to stop by for a surprise mid-afternoon snack to spark memories of childhood. In the future, The Thinkubator will expand to include a 1,500-square-foot space called the Aha Spa, which will be decorated with themes from nature.</p>\n\n<p><img src=\"http://thinkubators.com/wp-content/uploads/MG_0597-300x300.jpg\" alt=\"\" /></p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1430418723.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-30T13:32:03-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "innovate or die trying: think outside the office": [
+          "/news/innovateordietrying"
+        ],
+        "investors business daily": [
+          "/news/investorsbusinessdaily"
+        ],
+        "crain's chicago business": [
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "transliterated-title": {
+        "innovate-or-die-trying-think-outside-the-office": [
+          "/news/innovateordietrying"
+        ],
+        "investors-business-daily": [
+          "/news/investorsbusinessdaily"
+        ],
+        "crains-chicago-business": [
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "slug": {
+        "/news/innovateordietrying": [
+          "/news/innovateordietrying"
+        ],
+        "/news/investorsbusinessdaily": [
+          "/news/investorsbusinessdaily"
+        ],
+        "/news/crainschicagobusiness": [
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "transliterated-slug": {
+        "/news/innovateordietrying": [
+          "/news/innovateordietrying"
+        ],
+        "/news/investorsbusinessdaily": [
+          "/news/investorsbusinessdaily"
+        ],
+        "/news/crainschicagobusiness": [
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "month": {
+        "04": [
+          "/news/innovateordietrying",
+          "/news/investorsbusinessdaily",
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/news/innovateordietrying",
+          "/news/investorsbusinessdaily",
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "ticks": {
+        "1430418723.0": [
+          "/news/innovateordietrying",
+          "/news/investorsbusinessdaily",
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/news/innovateordietrying",
+          "/news/investorsbusinessdaily",
+          "/news/crainschicagobusiness"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-30t13:32:03-05:00": [
+          "/news/innovateordietrying",
+          "/news/investorsbusinessdaily",
+          "/news/crainschicagobusiness"
+        ]
+      }
+    }
+  }
+}

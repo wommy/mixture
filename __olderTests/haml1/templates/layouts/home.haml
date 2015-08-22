@@ -1,0 +1,10 @@
+!!!
+%html
+  %head
+    :Asseturl
+      %link{:href => "screen.css", :rel => "stylesheet", :type => "text/css"}
+    :Asseturl
+      %link{:href => "style.css", :rel => "stylesheet", :type => "text/css"}
+    = yield :title
+  %body
+    = yield

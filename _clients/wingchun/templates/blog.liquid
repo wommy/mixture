@@ -1,0 +1,13 @@
+{% layout "layout" %}
+
+{% block title %}blog{% endblock %}
+
+{% block content %}
+	{% collection 'blog' %}
+		{% for post in collection.items %}
+			<article>
+			{{  post.body  }}
+			</article>
+		{% endfor %}
+	{% endcollection %}
+{% endblock %}

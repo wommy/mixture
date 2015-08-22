@@ -1,0 +1,14 @@
+{% layout "layout" %}
+
+{% block title %} {{mixture.url}} {% endblock %}
+
+{% block content %}
+	{% collection 'media' order asc %}
+		{% for post in collection.items %}
+			<article id='{{post.title}}'>
+				<h2><a href="#{{post.title}}">{{post.title | downcase}}</a></h2>
+				{{  post.body  }}
+			</article>
+		{% endfor %}
+	{% endcollection %}
+{% endblock %}

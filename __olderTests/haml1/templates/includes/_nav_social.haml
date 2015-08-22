@@ -1,0 +1,26 @@
+%ul
+  %li
+    %a{:href => "http://haml.info/"}
+      Haml documentation
+  %li
+    %a{:href => "http://docs.mixture.io/templates#haml"}
+      Mixture documentation
+
+
+%nav
+	{% for blank in model.team %}
+		%a ( href={{blank.url}} )
+			%img ( src={{ blank.title }} )
+				{{ blank.title }}
+	{% endfor %}
+
+
+
+	for each?		nav 3 - contact - ( image ) name
+		phone
+		email
+		-social media
+		fb
+		t
+		g+
+		ig

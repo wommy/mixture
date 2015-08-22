@@ -1,0 +1,7 @@
+{% layout "layout" %}
+
+{% block title %}Thinkubator{% endblock %}
+
+{% block content %}
+
+{% endblock %}

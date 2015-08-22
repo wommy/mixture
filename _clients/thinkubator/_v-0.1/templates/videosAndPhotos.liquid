@@ -1,0 +1,18 @@
+{% layout "layout" %}
+
+{% block title %}Thinkubator{% endblock %}
+
+{% block content %}
+	<article>
+		<img class="logo" src="assets/img/Thinkubator-wide.png" height="50%" width="50%" />
+	</article>
+
+	{% collection 'media' %}
+		{% for post in collection.items reversed %}
+			<article>
+				<h1>{{  post.title  }}</h1>
+				{{  post.body  }}
+			</article>
+		{% endfor %}
+	{% endcollection %}
+{% endblock %}

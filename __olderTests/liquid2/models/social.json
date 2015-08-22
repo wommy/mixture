@@ -1,0 +1,46 @@
+{
+	"header1": "contact",
+	"header2": "social",
+	"phone": [
+		{
+			"title": "phone",
+			"url": "tel:312-818-9011",
+			"img": "/assets/img/social/phone.svg"
+		}
+	],
+	"email": [
+		{
+			"title": "email",
+			"url": "mailto:tom@technomad.media",
+			"img": "/assets/img/social/email.svg"
+		}
+	],
+	"facebook": [
+		{
+			"title": "facebook",
+			"url": "https://www.facebook.com/Froggie92",
+			"img": "/assets/img/social/facebook.svg"
+		}
+	],
+	"twitter": [
+		{
+			"title": "twitter",
+			"url": "http://twitter.com/froggie92",
+			"img": "/assets/img/social/twitter.svg"
+		}
+	],
+	"google+": [
+		{
+			"title": "google+",
+			"url": "https://plus.google.com/u/0/118102255716845472363/posts",
+			"img": "/assets/img/social/google-plus.svg"
+		}
+	],
+	"instagram": [
+		{
+			"title": "instagram",
+			"url": "https://instagram.com/wommytilliams/",
+			"img": "/assets/img/social/instagram.svg"
+		}
+	]
+}

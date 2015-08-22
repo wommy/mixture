@@ -1,0 +1,7 @@
+<h1>{{ model.title }}</h1>
+<p>A list of our team members</p>
+<ol>
+  {% for item in model.team %}
+  <li>{{ item.name }} and his Twitter handle {{ item.twitter }}</li>
+  {% endfor %}
+</ol>

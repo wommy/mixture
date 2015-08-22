@@ -1,0 +1,60 @@
+[
+  {
+    "directory": false,
+    "key": "index",
+    "name": "Index",
+    "url": "/index"
+  },
+  {
+    "children": [
+      {
+        "directory": false,
+        "key": "branding",
+        "name": "Branding",
+        "url": "/experience/branding"
+      },
+      {
+        "directory": false,
+        "key": "clients",
+        "name": "Clients",
+        "url": "/experience/clients"
+      },
+      {
+        "directory": false,
+        "key": "resume",
+        "name": "Resume",
+        "url": "/experience/resume"
+      }
+    ],
+    "directory": true,
+    "key": "experience",
+    "name": "Experience",
+    "url": "/experience"
+  },
+  {
+    "children": [
+      {
+        "directory": false,
+        "key": "feed",
+        "name": "Feed",
+        "url": "/experiments/feed"
+      },
+      {
+        "directory": false,
+        "key": "grid",
+        "name": "Grid",
+        "url": "/experiments/grid"
+      }
+    ],
+    "directory": true,
+    "key": "experiments",
+    "name": "Experiments",
+    "url": "/experiments"
+  },
+  {
+    "directory": false,
+    "key": "media",
+    "name": "Media",
+    "url": "/media"
+  }
+]

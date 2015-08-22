@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Title block allowing child pages to override -->
+        <title>{% block title %}Empty{% endblock %}</title>
+        <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+        <!-- Styles -->
+        {{ "app.css" | asset_url | stylesheet_tag }}
+        {% comment %}{{ "app-screen.css" | asset_url | stylesheet_tag }}{% endcomment %}
+        <!-- Style block allowing child pages to inject their own styles -->
+        {% block styles %}{% endblock %}
+    </head>
+    <body>
+        <!-- Include -->
+        <nav id="mobileNav" onclick="toggle( 'toggleMe' )">
+            <img src='/assets/img/hamburger.svg' id="hamburger"/>
+            {% comment %}<h2 id="hamTitle">nav</h2>{% endcomment %}
+            <nav id="toggleMe" style="display:none;">
+                {% include "header" %}
+            </nav>
+        </nav>
+        <!-- Content block, child page inject content -->
+        <div id='content'>
+            {% block content %}{% endblock %}
+        </div>
+        {% comment %}{% include "footer" %}{% endcomment %}
+        <!-- Script block allowing child pages to inject their own scripts -->
+        {% block scripts %}{% endblock %}
+        {{ "app.js" | asset_url | script_tag }}
+    </body>
+</html>

@@ -1,0 +1,13 @@
+{% layout "layout" %}
+
+{% block title %}gallery{% endblock %}
+
+{% block content %}
+	{% collection 'gallery' %}
+		{% for post in collection.items %}
+			<article>
+			{{  post.body  }}
+			</article>
+		{% endfor %}
+	{% endcollection %}
+{% endblock %}

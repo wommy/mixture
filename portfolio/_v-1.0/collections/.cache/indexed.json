@@ -1,0 +1,917 @@
+{
+  "resume": {
+    "collection": {
+      "/resume/resume": {
+        "title": "resume",
+        "published": true,
+        "date": "2015-04-03 13:49:55 UTC",
+        "slug": "/resume/resume",
+        "body": "\n<!-- \n<a href=\"/assets/resume-tommyWilliams-headshot.pdf\" target=\"_blank\">view in a new tab</a> -  <a href=\"/assets/resume-tommyWilliams-headshot.pdf\" download>download</a>\n-->\n\n<p>portfolio:   <a href=\"techNomad.media\">techNomad.media</a><br />\nemail:   <a href=\"&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#111;&#109;&#064;&#116;&#101;&#099;&#104;&#110;&#111;&#109;&#097;&#100;&#046;&#109;&#101;&#100;&#105;&#097;\">tom@techNomad.media</a><br />\nphone:   <a href=\"tel:312-818-9011\">312 818 9011</a><br />\naddress:   <a href=\"https://www.google.com/maps/place/1426+W+Chestnut+St,+Chicago,+IL+60642/@41.898204,-87.663567,17z/data=!4m2!3m1!1s0x880fd2d37995e65f:0x4a79f787069b8ac\">1426 W Chestnut #1R Chicago IL 60642</a><br />\nfour year goal:   senior full-stack developer @ a media company</p>\n\n<h3>education</h3>\n<blockquote>\n  <p><strong>depaul graduated 2015</strong><br />\nbachelor of arts: <a href=\"#psych\">psychology</a><br />\nminor: interactive social media<br />\ndean's list: 5 quarters</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>columbia college ( 2 years )</strong><br />\nfilm + music composition<br />\nhonor roll: 2 semesters</p>\n</blockquote>\n\n<h3>field experience</h3>\n<blockquote>\n  <p><strong>solution people</strong><br />\n    managed 30+ websites<br />\n    redesign<br />\n    created, edited, pushed content</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>branding</strong><br />\n-  froggie92<br />\n-  wommy tilliams<br />\n-  techNomad</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>?# clients</strong><br />\n- x, y, z</p>\n</blockquote>\n\n<h3>areas of expertise</h3>\n<blockquote>\n  <p><a href=\"#ui-ux\">design</a><br />\n<a href=\"#front\">development, front end</a><br />\n<a href=\"#back\">development, back end</a><br />\n<a href=\"#database\">database</a><br />\n<a href=\"#deployment\">deployment</a><br />\n<a href=\"#other\">other</a><br />\n<a href=\"#hobbies\">hobbies</a></p>\n</blockquote>\n\n<h3 id=\"ui-ux\">ui-ux - minor in school</h3>\n<blockquote>\n  <p><strong>?# of projects</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>mockups / wireframes / site-mapping</strong><br />\n    - balsamiq<br />\n    - axure<br />\n    - sketch<br />\n    - atomic</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>physical media</strong><br />\n    - paper prototypes<br />\n    - hci</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>front end / back end :: gui / db</strong><br />\n    - pass to dev</p>\n</blockquote>\n\n<h3 id=\"front\">frontEnd - started 2011</h3>\n<blockquote>\n  <p><strong>HTML5</strong><br />\n    - jade / haml / slim<br />\n    - bootstrap<br />\n    - foundation</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>CSS3</strong><br />\n    - less / stylus<br />\n    - scss - compass</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>JS</strong><br />\n    - jQuery<br />\n    - coffeeScript<br />\n    - threeJs<br />\n    - js hint<br />\n    - JSON<br />\n    - AJAX<br />\n    - AMD</p>\n</blockquote>\n\n<h3 id=\"back\">backEnd languages / frameworks</h3>\n<blockquote>\n  <p><strong>php</strong><br />\n    - wordpress / drupal / joomla / magento<br />\n    - laravel / symphony + sylius<br />\n    - zend</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>ruby</strong><br />\n    - rails<br />\n    - jekyll</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>python</strong><br />\n    - django<br />\n    - flask<br />\n    - hyde<br />\n    - pelican</p>\n</blockquote>\n\n<blockquote>\n  <p><strong>javascript</strong><br />\n    - angular / backbone / ember / knockout / meteor<br />\n    - express<br />\n    - react + flux<br />\n    - node<br />\n        - ghost</p>\n</blockquote>\n\n<h3 id=\"database\">database</h3>\n<blockquote>\n  <p><strong>mySQL</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>postgreSQL</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>noSQL</strong><br />\n    - mongo</p>\n</blockquote>\n\n<h3 id=\"deployment\">deployment</h3>\n<blockquote>\n  <p><strong>require browserify common</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>grunt gulp</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>npm bower</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>yeoman</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>vagrant</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>composer</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>capistrano</strong></p>\n</blockquote>\n\n<h3 id=\"other\">other</h3>\n<blockquote>\n  <p><strong>adobe - illustrator / photoshop</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>rapid prototyping - agile</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong>github / ssh / ssl / ftp</strong></p>\n</blockquote>\n\n<blockquote>\n  <p><strong><span id=\"psych\">psych</span></strong><br />\n    - test creation<br />\n    - data collection<br />\n    - statistical analysis</p>\n</blockquote>\n\n<h3 id=\"hobbies\">hobbies</h3>\n<blockquote>\n  <p><strong>kungfu - 1 year</strong><br />\n<strong>biking - 7</strong></p>\n</blockquote>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1428068995.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-03T08:49:55-05:00"
+      },
+      "/resume/resume-copy": {
+        "title": "resume",
+        "published": false,
+        "date": "2015-04-03 13:49:55 UTC",
+        "slug": "/resume/resume-copy",
+        "body": "\n<p><img src=\"assets/img/wommyBig.jpg\" height=\"450\" width=\"300\" />  <br />\nTOMMY WILLIAMS  <br />\nportfolio:   <a href=\"techNomad.media\">techNomad.media</a>  <br />\nemail:   <a href=\"&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#111;&#109;&#064;&#116;&#101;&#099;&#104;&#110;&#111;&#109;&#097;&#100;&#046;&#109;&#101;&#100;&#105;&#097;\">tom@techNomad.media</a>  <br />\nphone:   <a href=\"tel:312-818-9011\">312 818 9011</a>  <br />\naddress:   <a href=\"https://www.google.com/maps/place/1426+W+Chestnut+St,+Chicago,+IL+60642/@41.898204,-87.663567,17z/data=!4m2!3m1!1s0x880fd2d37995e65f:0x4a79f787069b8ac\">1426 W Chestnut #1R Chicago IL 60642</a>  <br />\nfour year goal:   Senior Full Stack Developer at a media company  </p>\n\n<h4>education</h4>\n<ul>\n  <li>depaul graduated 2015<br />\n    <ul>\n      <li>bachelor of arts: <a href=\"#psych\">psychology</a>  </li>\n      <li>minor: interactive social media  </li>\n      <li>dean’s list: 5 quarters  </li>\n    </ul>\n  </li>\n  <li>columbia college ( 2 years )<br />\n    <ul>\n      <li>film + music composition  </li>\n      <li>honor roll: 2 semesters  </li>\n    </ul>\n  </li>\n</ul>\n\n<h4>field experience</h4>\n<ul>\n  <li>solution people<br />\n    <ul>\n      <li>managed 30+ websites  </li>\n      <li>redesign  </li>\n      <li>created, edited, pushed content  </li>\n    </ul>\n  </li>\n  <li>branding<br />\n    <ul>\n      <li>3 brands over 12 years<br />\n        <ul>\n          <li>froggie92 </li>\n          <li>wommy tilliams </li>\n          <li>techNomad  </li>\n        </ul>\n      </li>\n      <li>?# clients<br />\n        <ul>\n          <li>x, y, z  </li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>\n\n<h4>areas of expertise</h4>\n<ul>\n  <li><a href=\"#ui-ux\">design</a></li>\n  <li>development\n    <ul>\n      <li>front</li>\n      <li>back</li>\n    </ul>\n  </li>\n  <li>database  </li>\n  <li>deploy</li>\n  <li>other</li>\n  <li>hobbies</li>\n</ul>\n\n<h4><a name=\"ui-ux\">ui-ux</a> - minor in school</h4>\n<ul>\n  <li>?# of projects  </li>\n  <li>mockups / wireframes / site-mapping<br />\n    <ul>\n      <li>balsamiq  </li>\n      <li>axure  </li>\n      <li>sketch  </li>\n      <li>atomic  </li>\n    </ul>\n  </li>\n  <li>physical media<br />\n    <ul>\n      <li>paper prototypes  </li>\n      <li>hci  </li>\n    </ul>\n  </li>\n  <li>front end / back end :: gui / db<br />\n    <ul>\n      <li>pass to dev  </li>\n    </ul>\n  </li>\n</ul>\n\n<h4>frontEnd - started 2011</h4>\n<ul>\n  <li>HTML5<br />\n    <ul>\n      <li>jade / haml / slim  </li>\n      <li>bootstrap  </li>\n      <li>foundation  </li>\n    </ul>\n  </li>\n  <li>CSS3<br />\n    <ul>\n      <li>less / stylus  </li>\n      <li>scss - compass  </li>\n    </ul>\n  </li>\n  <li>JS<br />\n    <ul>\n      <li>jQuery  </li>\n      <li>coffeeScript  </li>\n      <li>threeJs  </li>\n      <li>js hint  </li>\n      <li>JSON  </li>\n      <li>AJAX  </li>\n      <li>AMD  </li>\n    </ul>\n  </li>\n</ul>\n\n<h4>backEnd languages / frameworks :: cms / ecommerce</h4>\n<ul>\n  <li>php<br />\n    <ul>\n      <li>wordpress / drupal / joomla / magento  </li>\n      <li>laravel / symphony + sylius  </li>\n      <li>zend  </li>\n    </ul>\n  </li>\n  <li>ruby<br />\n    <ul>\n      <li>rails  </li>\n      <li>jekyll  </li>\n    </ul>\n  </li>\n  <li>python<br />\n    <ul>\n      <li>django  </li>\n      <li>flask  </li>\n      <li>hyde  </li>\n      <li>pelican  </li>\n    </ul>\n  </li>\n  <li>javascript<br />\n    <ul>\n      <li>angular / backbone / ember / knockout / meteor  </li>\n      <li>express  </li>\n      <li>react + flux  </li>\n      <li>node<br />\n        <ul>\n          <li>ghost  </li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>\n\n<h4>database</h4>\n<ul>\n  <li>mySQL  </li>\n  <li>postgreSQL  </li>\n  <li>noSQL\n    <ul>\n      <li>mongo  </li>\n    </ul>\n  </li>\n</ul>\n\n<h4>deployment</h4>\n<ul>\n  <li>require browserify common  </li>\n  <li>grunt gulp  </li>\n  <li>npm bower  </li>\n  <li>yeoman  </li>\n  <li>vagrant  </li>\n  <li>composer  </li>\n  <li>capistrano  </li>\n</ul>\n\n<h4>others</h4>\n<ul>\n  <li>adobe - illustrator / photoshop  </li>\n  <li>rapid prototyping - agile  </li>\n  <li>github / ssh / ssl / ftp  </li>\n  <li><a name=\"psych\">psych</a><br />\n    <ul>\n      <li>test creation  </li>\n      <li>data collection  </li>\n      <li>statistical analysis</li>\n    </ul>\n  </li>\n</ul>\n\n<h4>hobbies</h4>\n<ul>\n  <li>kungfu - 1 year  </li>\n  <li>biking - 7  </li>\n</ul>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1428068995.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-03T09:49:55-04:00"
+      }
+    },
+    "index": {
+      "title": {
+        "resume": [
+          "/resume/resume",
+          "/resume/resume-copy"
+        ]
+      },
+      "transliterated-title": {
+        "resume": [
+          "/resume/resume",
+          "/resume/resume-copy"
+        ]
+      },
+      "slug": {
+        "/resume/resume": [
+          "/resume/resume"
+        ],
+        "/resume/resume-copy": [
+          "/resume/resume-copy"
+        ]
+      },
+      "transliterated-slug": {
+        "/resume/resume": [
+          "/resume/resume"
+        ],
+        "/resume/resume-copy": [
+          "/resume/resume-copy"
+        ]
+      },
+      "month": {
+        "04": [
+          "/resume/resume",
+          "/resume/resume-copy"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/resume/resume",
+          "/resume/resume-copy"
+        ]
+      },
+      "ticks": {
+        "1428068995.0": [
+          "/resume/resume",
+          "/resume/resume-copy"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/resume/resume",
+          "/resume/resume-copy"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-03t08:49:55-05:00": [
+          "/resume/resume"
+        ],
+        "2015-04-03t09:49:55-04:00": [
+          "/resume/resume-copy"
+        ]
+      }
+    }
+  },
+  "clients": {
+    "collection": {
+      "/clients/manifest": {
+        "title": "manifest",
+        "published": false,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/clients/manifest",
+        "body": "\n<h2><a name=\"\">jump to client</a></h2>\n\n<ol>\n  <li><a href=\"#wingChun\">wingChun</a></li>\n  <li><a href=\"#nickPizana\">nickPizana</a></li>\n  <li><a href=\"#eightcell\">eightcell</a></li>\n  <li><a href=\"#film//play\">film//play</a></li>\n</ol>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      },
+      "/clients/wingchun": {
+        "title": "wingChun",
+        "published": true,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/clients/wingchun",
+        "body": "\n<p>i've been practicing kungfu for over a year now <br />\nthe brand is currently overhauling everything <br />\nfrom fliers to the website</p>\n\n<blockquote>\n  <p>current site:  <a href=\"http://mjvingtsun.org/\">mjvingtsun.org</a>  <br />\nfuture site:  <a href=\"http://vtselfdefense.com/\">vtselfdefense.com</a>  </p>\n</blockquote>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      },
+      "/clients/filmplay": {
+        "title": "film//play",
+        "published": true,
+        "date": "2015-04-15 23:39:59 UTC",
+        "slug": "/clients/filmplay",
+        "body": "\n<p>the <strong>Detroit Culture Club</strong> contacted me <br />\nto create a website <br />\nfor their latest event <strong>film//play</strong></p>\n\n<blockquote>\n  <p><a href=\"http://filmplaydetroit.technomad.media/\">filmPlayDetroit.technomad.media</a></p>\n</blockquote>\n\n<p>i offered to create a digital respository <br />\na hub for their digital content and contact info<br />\nbut they just wanted a description<br />\nso thats what i delivered</p>\n\n<p>now that we've gotten to know each other<br />\ni feel confident pushing for a more interactive user experience</p>\n\n<blockquote>\n  <p><a href=\"https://www.facebook.com/events/297322957126819\">a link to its facebook event</a></p>\n</blockquote>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429141199.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T18:39:59-05:00"
+      },
+      "/clients/eightcell": {
+        "title": "eightcell",
+        "published": true,
+        "date": "2015-04-15 23:39:59 UTC",
+        "slug": "/clients/eightcell",
+        "body": "\n<blockquote>\n  <p><em>the most simple / efficient way</em><br />\n<em>to catapault your next event</em><br />\n<em>to the stratosphere</em></p>\n</blockquote>\n\n<p>operating out of chicago, they combine digital art, projection mapping, and interactive installs to make your event out of this world.  </p>\n\n<blockquote>\n  <p><a href=\"https://www.facebook.com/EightCell\">facebook.com/EightCell</a>  </p>\n</blockquote>\n\n<blockquote>\n  <p><a href=\"https://www.youtube.com/channel/UC4GsWU1uZAa5e3G1owi9K1g\">youtube</a>  </p>\n</blockquote>\n\n<p>heres a site a made for them a couple years ago:  </p>\n\n<blockquote>\n  <p><a href=\"http://technomad.media/8c/\">technomad.media/8c/</a></p>\n</blockquote>\n\n<p>and heres the new underconstruction site:  </p>\n\n<blockquote>\n  <p><a href=\"eightcell.tv\">eightcell.tv</a></p>\n</blockquote>\n\n<h3>meet the team:</h3>\n<p>truman - [ sophos visuals ]  </p>\n\n<blockquote>\n  <p><a href=\"https://instagram.com/sophosvisuals/\">instagram.com/sophosvisuals</a>  </p>\n</blockquote>\n\n<blockquote>\n  <p><a href=\"https://www.facebook.com/sophos.visuals\">facebook.com/sophos.visuals</a>  </p>\n</blockquote>\n\n<p>bill - [ dubstompin / biww ] </p>\n\n<blockquote>\n  <p><a href=\"instagram.com/dubstompin\">instagram.com/dubstompin</a></p>\n</blockquote>\n\n<blockquote>\n  <p><a href=\"https://soundcloud.com/dubstompin\">soundcloud.com/dubstompin</a></p>\n</blockquote>\n\n<blockquote>\n  <p><a href=\"https://www.facebook.com/bill.pilipchuk\">facebook.com/bill.pilipchuk</a><br />\n <a href=\"https://www.facebook.com/DubStompinChicago\">facebook.com/DubStompinChicago</a><br />\n <a href=\"https://www.facebook.com/whosbiww\">facebook.com/whosbiww</a></p>\n</blockquote>\n\n<p>brandyn - [ mr Zpacely ] </p>\n\n<blockquote>\n  <p><a href=\"https://instagram.com/zpacepix/\">instagram.com/zpacepix</a>  </p>\n</blockquote>\n\n<blockquote>\n  <p><a href=\"https://www.youtube.com/channel/UCdE8MPlhBRh1po3FbHFag8A\">youtube</a>  </p>\n</blockquote>\n\n<blockquote>\n  <p><a href=\"https://www.facebook.com/brandyn.micheal\">facebook</a>  </p>\n</blockquote>\n\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429141199.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T18:39:59-05:00"
+      },
+      "/clients/nickpizana": {
+        "title": "nickPizana",
+        "published": true,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/clients/nickpizana",
+        "body": "\n<p>an extremely talented artist <br />\nbut also a good friend from highschool</p>\n\n<p>recently has been blowing up in the detroit art scene  </p>\n\n<blockquote>\n  <p><a href=\"http://www.redbull.com/us/en/stories/1331690125340/nick-pizana-at-red-bull-house-of-art\">read about his installation at the Red Bull House of Art</a></p>\n</blockquote>\n\n<p>i created and hosted a simple website for him<br />\nwhich we are currently overhauling </p>\n\n<blockquote>\n  <p><a href=\"nickpizana.technomad.media\">nickpizana.technomad.media</a></p>\n</blockquote>\n\n<p>follow him on social media:</p>\n\n<blockquote>\n  <p><a href=\"https://www.facebook.com/nickypistheman\">facebook</a><br />\n<a href=\"instagram.com/hyper_mutant\">instagram ( @hyper_mutant ) </a></p>\n</blockquote>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      },
+      "/clients/jorris": {
+        "title": "jOrris",
+        "published": true,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/clients/jorris",
+        "body": "\n<blockquote>\n  <p>lived next to me my sophomore year at columbia<br />\ncinematographer<br />\ncurrently in australia</p>\n</blockquote>\n\n<p>i designed and developed his website<br />\nwhich he has since personally tweaked</p>\n\n<blockquote>\n  <p><a href=\"http://aparadi.se\">aparadi.se</a></p>\n</blockquote>\n\n<p>i also acted in some videos for him<br />\nfind them on my media page <a href=\"/media#john orris originals\">here</a></p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      },
+      "/clients/geraldhaman": {
+        "title": "geraldHaman",
+        "published": true,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/clients/geraldhaman",
+        "body": "\n<p>bio</p>\n\n<p>solutionpeople.com<br />\nthinkubators.com</p>\n\n<p><a href=\"media#popcornBulb\">popcorn bulb</a></p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "manifest": [
+          "/clients/manifest"
+        ],
+        "wingchun": [
+          "/clients/wingchun"
+        ],
+        "film//play": [
+          "/clients/filmplay"
+        ],
+        "eightcell": [
+          "/clients/eightcell"
+        ],
+        "nickpizana": [
+          "/clients/nickpizana"
+        ],
+        "jorris": [
+          "/clients/jorris"
+        ],
+        "geraldhaman": [
+          "/clients/geraldhaman"
+        ]
+      },
+      "transliterated-title": {
+        "manifest": [
+          "/clients/manifest"
+        ],
+        "wingchun": [
+          "/clients/wingchun"
+        ],
+        "film//play": [
+          "/clients/filmplay"
+        ],
+        "eightcell": [
+          "/clients/eightcell"
+        ],
+        "nickpizana": [
+          "/clients/nickpizana"
+        ],
+        "jorris": [
+          "/clients/jorris"
+        ],
+        "geraldhaman": [
+          "/clients/geraldhaman"
+        ]
+      },
+      "slug": {
+        "/clients/manifest": [
+          "/clients/manifest"
+        ],
+        "/clients/wingchun": [
+          "/clients/wingchun"
+        ],
+        "/clients/filmplay": [
+          "/clients/filmplay"
+        ],
+        "/clients/eightcell": [
+          "/clients/eightcell"
+        ],
+        "/clients/nickpizana": [
+          "/clients/nickpizana"
+        ],
+        "/clients/jorris": [
+          "/clients/jorris"
+        ],
+        "/clients/geraldhaman": [
+          "/clients/geraldhaman"
+        ]
+      },
+      "transliterated-slug": {
+        "/clients/manifest": [
+          "/clients/manifest"
+        ],
+        "/clients/wingchun": [
+          "/clients/wingchun"
+        ],
+        "/clients/filmplay": [
+          "/clients/filmplay"
+        ],
+        "/clients/eightcell": [
+          "/clients/eightcell"
+        ],
+        "/clients/nickpizana": [
+          "/clients/nickpizana"
+        ],
+        "/clients/jorris": [
+          "/clients/jorris"
+        ],
+        "/clients/geraldhaman": [
+          "/clients/geraldhaman"
+        ]
+      },
+      "month": {
+        "04": [
+          "/clients/manifest",
+          "/clients/wingchun",
+          "/clients/filmplay",
+          "/clients/eightcell",
+          "/clients/nickpizana",
+          "/clients/jorris",
+          "/clients/geraldhaman"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/clients/manifest",
+          "/clients/wingchun",
+          "/clients/filmplay",
+          "/clients/eightcell",
+          "/clients/nickpizana",
+          "/clients/jorris",
+          "/clients/geraldhaman"
+        ]
+      },
+      "ticks": {
+        "1429126011.0": [
+          "/clients/manifest",
+          "/clients/wingchun",
+          "/clients/nickpizana",
+          "/clients/jorris",
+          "/clients/geraldhaman"
+        ],
+        "1429141199.0": [
+          "/clients/filmplay",
+          "/clients/eightcell"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/clients/manifest",
+          "/clients/wingchun",
+          "/clients/filmplay",
+          "/clients/eightcell",
+          "/clients/nickpizana",
+          "/clients/jorris",
+          "/clients/geraldhaman"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-15t14:26:51-05:00": [
+          "/clients/manifest",
+          "/clients/wingchun",
+          "/clients/nickpizana",
+          "/clients/jorris",
+          "/clients/geraldhaman"
+        ],
+        "2015-04-15t18:39:59-05:00": [
+          "/clients/filmplay",
+          "/clients/eightcell"
+        ]
+      }
+    }
+  },
+  "media": {
+    "collection": {
+      "/media/manifest": {
+        "title": "inspiration",
+        "published": false,
+        "date": "2015-04-15 20:17:29 UTC",
+        "slug": "/media/manifest",
+        "body": "\n<h2>media</h2>\n\n<p>heres a list of media i am involved in</p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429129049.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T15:17:29-05:00"
+      },
+      "/media/createafreshpath": {
+        "title": "create a fresh path",
+        "published": true,
+        "date": "2015-04-15 20:17:29 UTC",
+        "slug": "/media/createafreshpath",
+        "body": "\n<iframe src=\"https://player.vimeo.com/video/122390839\" height=\"385\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n\n<p>i couldn't have made this video without some help from my friends:  </p>\n\n<p><a href=\"https://www.facebook.com/koctavioroman\">kyle roman</a> helped me procure the go pro  </p>\n\n<p>nick drew did the lovely editing  <br />\nvisit his website @ <a href=\"http://www.couchfirefilms.com/\">http://www.couchfirefilms.com/</a>  </p>\n\n<p><a href=\"https://www.facebook.com/BrooksJonesMusic\">brooks jones</a> supplied the sweet tunes  <br />\nvisit his soundcloud @ <a href=\"https://soundcloud.com/tarpleybrooksjones\">https://soundcloud.com/tarpleybrooksjones</a>  </p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429129049.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T15:17:29-05:00"
+      },
+      "/media/wingchun": {
+        "title": "wing chun videos",
+        "published": true,
+        "date": "2015-04-15 20:17:29 UTC",
+        "slug": "/media/wingchun",
+        "body": "\n<h3>chi-sau-ing with sifu from my helmet</h3>\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/jO9N00johrw\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n<h3>chi-sau-ing with sifu from my chest</h3>\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ZYu-nuwmG3M\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n<h3>chi-sau-ing with sifu from his chest</h3>\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/qe7le9oVrRI\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n<h3>sifu going thru the first wooden dummy form</h3>\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/AegzO_xVyrg\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429129049.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T15:17:29-05:00"
+      },
+      "/media/jorris": {
+        "title": "john orris originals",
+        "published": true,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/media/jorris",
+        "body": "\n<p>i've come to cherish the handful of <a href=\"clients#jOrris\">John Orris'</a> films i acted in:</p>\n\n<h3>white hot trouble</h3>\n<iframe width=\"660\" height=\"371\" src=\"https://www.youtube.com/embed/6-NJz6b6XhQ?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n<h3>paradise shorts</h3>\n<iframe src=\"//player.vimeo.com/video/73359740\" width=\"660\" height=\"371\" frameborder=\"0\" title=\"&quot;Paradise Shorts&quot; .01-.10\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n\n<h3>naked fierce</h3>\n<iframe src=\"//player.vimeo.com/video/106900917\" width=\"660\" height=\"371\" frameborder=\"0\" title=\"Naked - &quot;Fierce&quot;\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      },
+      "/media/popcornbulb": {
+        "title": "popcorn bulb",
+        "published": true,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/media/popcornbulb",
+        "body": "\n<p>short video i acted in for <a href=\"clients/#geraldHaman\">gerald haman</a></p>\n\n<iframe width=\"660\" height=\"371\" src=\"https://www.youtube.com/embed/3mkvvZc3twY?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "inspiration": [
+          "/media/manifest"
+        ],
+        "create a fresh path": [
+          "/media/createafreshpath"
+        ],
+        "wing chun videos": [
+          "/media/wingchun"
+        ],
+        "john orris originals": [
+          "/media/jorris"
+        ],
+        "popcorn bulb": [
+          "/media/popcornbulb"
+        ]
+      },
+      "transliterated-title": {
+        "inspiration": [
+          "/media/manifest"
+        ],
+        "create-a-fresh-path": [
+          "/media/createafreshpath"
+        ],
+        "wing-chun-videos": [
+          "/media/wingchun"
+        ],
+        "john-orris-originals": [
+          "/media/jorris"
+        ],
+        "popcorn-bulb": [
+          "/media/popcornbulb"
+        ]
+      },
+      "slug": {
+        "/media/manifest": [
+          "/media/manifest"
+        ],
+        "/media/createafreshpath": [
+          "/media/createafreshpath"
+        ],
+        "/media/wingchun": [
+          "/media/wingchun"
+        ],
+        "/media/jorris": [
+          "/media/jorris"
+        ],
+        "/media/popcornbulb": [
+          "/media/popcornbulb"
+        ]
+      },
+      "transliterated-slug": {
+        "/media/manifest": [
+          "/media/manifest"
+        ],
+        "/media/createafreshpath": [
+          "/media/createafreshpath"
+        ],
+        "/media/wingchun": [
+          "/media/wingchun"
+        ],
+        "/media/jorris": [
+          "/media/jorris"
+        ],
+        "/media/popcornbulb": [
+          "/media/popcornbulb"
+        ]
+      },
+      "month": {
+        "04": [
+          "/media/manifest",
+          "/media/createafreshpath",
+          "/media/wingchun",
+          "/media/jorris",
+          "/media/popcornbulb"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/media/manifest",
+          "/media/createafreshpath",
+          "/media/wingchun",
+          "/media/jorris",
+          "/media/popcornbulb"
+        ]
+      },
+      "ticks": {
+        "1429129049.0": [
+          "/media/manifest",
+          "/media/createafreshpath",
+          "/media/wingchun"
+        ],
+        "1429126011.0": [
+          "/media/jorris",
+          "/media/popcornbulb"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/media/manifest",
+          "/media/createafreshpath",
+          "/media/wingchun",
+          "/media/jorris",
+          "/media/popcornbulb"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-15t15:17:29-05:00": [
+          "/media/manifest",
+          "/media/createafreshpath",
+          "/media/wingchun"
+        ],
+        "2015-04-15t14:26:51-05:00": [
+          "/media/jorris",
+          "/media/popcornbulb"
+        ]
+      }
+    }
+  },
+  "branding": {
+    "collection": {
+      "/branding/brand": {
+        "published": false,
+        "date": "2015-04-18 03:56:28 UTC",
+        "slug": "/branding/brand",
+        "body": "\n<p>tommy williams</p>\n\n<p>froggie92<br />\nwommytilliams<br />\ntechnomad</p>\n\n<p>http://wommytilliams.com/media/onePagePortfolio/</p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429329388.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-17T22:56:28-05:00"
+      },
+      "/branding/froggie92": {
+        "title": "froggie92",
+        "published": true,
+        "date": "2015-04-18 03:56:28 UTC",
+        "slug": "/branding/froggie92",
+        "body": "\n<p>froggie92 came about via <a href=\"http://runescape.com\">runescape</a></p>\n\n<blockquote>\n  <p>it was the name of the first character i created</p>\n</blockquote>\n\n<blockquote>\n  <blockquote>\n    <p>i had two pet frogs<br />\n9 and 2 were my two favorite numbers</p>\n  </blockquote>\n</blockquote>\n\n<p>i used this screen name for everything</p>\n\n<blockquote>\n  <p>email: <a href=\"&#109;&#097;&#105;&#108;&#116;&#111;:&#102;&#114;&#111;&#103;&#103;&#105;&#101;&#057;&#050;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;\">&#102;&#114;&#111;&#103;&#103;&#105;&#101;&#057;&#050;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br />\nfacebook: <a href=\"https://www.facebook.com/Froggie92\">https://www.facebook.com/Froggie92</a><br />\ntwitter: <a href=\"http://twitter.com/froggie92\">http://twitter.com/froggie92</a><br />\nreddit: <a href=\"http://www.reddit.com/user/Froggie92/\">http://www.reddit.com/user/Froggie92/</a></p>\n</blockquote>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429329388.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-17T22:56:28-05:00"
+      },
+      "/branding/wommytilliams": {
+        "title": "wommytilliams",
+        "published": true,
+        "date": "2015-04-18 03:56:28 UTC",
+        "slug": "/branding/wommytilliams",
+        "body": "\n<p>my name has evolved numerous times throughout my life</p>\n\n<p>in grade school, all my friends called me tommy<br />\nwhen i got to middle school, i shortened it to tom</p>\n\n<p>i later realized that all my close friends called me tommy<br />\nso i switched my facebook name to tommy williams<br />\nover night, all the people i barely knew started addressing me as tommy</p>\n\n<p>the newest iteration, wommytilliams came about in college<br />\na bad breakup was causing me to be negative</p>\n\n<p>people started joking that i had some type of alter ego<br />\nif tommy williams was dr jekyll, wommy was mr hyde </p>\n\n<p>“wommy” was really taking off<br />\nyet it served reference to this aspect of myself i didnt like<br />\nso i did the only thing i could and took it back</p>\n\n<p>i bought <a href=\"http://wommytilliams.com\">http://wommytilliams.com</a></p>\n\n<p>wommy tilliams’ uniqueness is a double-edged sword<br />\nvisually, wommy tilliams is relatively easy to get<br />\nauditorily, it sounds like a jarbled nothing </p>\n\n<p>brand wise<br />\nif you know tommy williams, wommy tilliams isn’t too hard to get</p>\n\n<p>if your first move  explain your brand, </p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429329388.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-17T22:56:28-05:00"
+      },
+      "/branding/technomad": {
+        "title": "technomad",
+        "published": true,
+        "date": "2015-04-18 03:56:28 UTC",
+        "slug": "/branding/technomad",
+        "body": "\n<p>technomad</p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429329388.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-17T22:56:28-05:00"
+      },
+      "/branding/brand-copy": {
+        "published": false,
+        "date": "2015-04-18 03:56:28 UTC",
+        "slug": "/branding/brand-copy",
+        "body": "\n<p>so a friend of mine asked me what my portfolio does</p>\n\n<p>i told him exactly what its always been</p>\n\n<p>i want to host artists digital media online<br />\nthey will be my media</p>\n\n<p>froggie92 was the old me,<br />\nthe nerd in high school<br />\nwhose life was video games and anime<br />\nrunescape<br />\nand counter strike<br />\nand diablo 2 lord of destruction<br />\nand half life 2<br />\nand dota</p>\n\n<p>who remembers longcat from 4chan in 2006</p>\n\n<p>who liked the matrix</p>\n\n<p>that me isnt dead<br />\nthat me is the charmander to my current charmeleon</p>\n\n<p>yeah i still like anime and video games<br />\nbut thats not my life</p>\n\n<p>i bike around chicago instead of driving around detroit<br />\ni like the bike: its cheap, practical, accessible</p>\n\n<p>i used to like happy hardcore and hardstyle<br />\nnow i like detroit techno and house<br />\nbut i still go to mc chris concerts</p>\n\n<p>the college friends of mine will know the mc chris hoodie i wore for years straight<br />\nmy college friends will know my striped shirt<br />\nnow i wear a detroit sweatshirt</p>\n\n<p>froggie92 me used to want there to be public transport in detroit<br />\nwommy tilliams me knows it exists already, the buses<br />\nand that the light rail is the biggest waste of money</p>\n\n<p>wommy tilliams knows detroit water tastes better than chicago water</p>\n\n<p>but wommy tilliams isnt the end of the line<br />\ncharmeleon evolves into charizard</p>\n\n<p>i want to be international, <br />\ntravel for work, instead of work to travel<br />\nworking anywhere and everywhere<br />\nliving anywhere and everywhere<br />\nyou can get a bike anywhere</p>\n\n<p>i already practically live out of a backpack<br />\nand at the end of the day i can defend myself</p>\n\n<p>my whole life<br />\ni have been taking the steps to become this<br />\nand i didnt even know</p>\n\n<p>and its going to happen,<br />\n    not if, but how when where<br />\nwho will help me will be rewarded</p>\n\n<p>i want to be the tech nomad<br />\ntech nomad is who i want to be</p>\n\n<h2>help me become the next me</h2>\n<p>branding to me is the easiest way to split myself into past present future imperfect</p>\n\n<hr />\n\n<p>i built this on mixture</p>\n\n<p>its a ruby stack<br />\nthat runs liquid<br />\nwhat shopify built /  is built in on for</p>\n\n<p>it auto minimifies css imgs and scripts<br />\nit creates a local host on my computer, taking away the needs for a MAMP stack<br />\nit exports to html<br />\nit ftps</p>\n\n<p>it supports haml and scss</p>\n\n<p>you can have two different views for the same content</p>\n\n<p>it auto generates sitemaps and navigation bars</p>\n\n<p>it auto populates feeds from folders</p>\n\n<p>it does it all</p>\n\n<p>it supports routes and templates</p>\n\n<h2>markdown</h2>\n<p>data design development deployment<br />\n-<br />\nmy biggest weakness is food / volition<br />\nive done this all by myself<br />\nthat fact that ive gotten so far without help is astonishing<br />\nif i had some friends in my field i would have gotten so much farther<br />\n-<br />\ni do all my coding in sublime text 3<br />\n-</p>\n\n<p>=<br />\nnomad<br />\n    backpack+ contents</p>\n\n<p>alert<br />\n    twitter</p>\n\n<p>contact me<br />\n    twitter<br />\n    email</p>\n\n<p>transparency</p>\n\n<p>? publish<br />\n    todo<br />\n    running doc</p>\n\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429329388.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-17T22:56:28-05:00"
+      }
+    },
+    "index": {
+      "slug": {
+        "/branding/brand": [
+          "/branding/brand"
+        ],
+        "/branding/froggie92": [
+          "/branding/froggie92"
+        ],
+        "/branding/wommytilliams": [
+          "/branding/wommytilliams"
+        ],
+        "/branding/technomad": [
+          "/branding/technomad"
+        ],
+        "/branding/brand-copy": [
+          "/branding/brand-copy"
+        ]
+      },
+      "transliterated-slug": {
+        "/branding/brand": [
+          "/branding/brand"
+        ],
+        "/branding/froggie92": [
+          "/branding/froggie92"
+        ],
+        "/branding/wommytilliams": [
+          "/branding/wommytilliams"
+        ],
+        "/branding/technomad": [
+          "/branding/technomad"
+        ],
+        "/branding/brand-copy": [
+          "/branding/brand-copy"
+        ]
+      },
+      "month": {
+        "04": [
+          "/branding/brand",
+          "/branding/froggie92",
+          "/branding/wommytilliams",
+          "/branding/technomad",
+          "/branding/brand-copy"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/branding/brand",
+          "/branding/froggie92",
+          "/branding/wommytilliams",
+          "/branding/technomad",
+          "/branding/brand-copy"
+        ]
+      },
+      "ticks": {
+        "1429329388.0": [
+          "/branding/brand",
+          "/branding/froggie92",
+          "/branding/wommytilliams",
+          "/branding/technomad",
+          "/branding/brand-copy"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/branding/brand",
+          "/branding/froggie92",
+          "/branding/wommytilliams",
+          "/branding/technomad",
+          "/branding/brand-copy"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-17t22:56:28-05:00": [
+          "/branding/brand",
+          "/branding/froggie92",
+          "/branding/wommytilliams",
+          "/branding/technomad",
+          "/branding/brand-copy"
+        ]
+      },
+      "title": {
+        "froggie92": [
+          "/branding/froggie92"
+        ],
+        "wommytilliams": [
+          "/branding/wommytilliams"
+        ],
+        "technomad": [
+          "/branding/technomad"
+        ]
+      },
+      "transliterated-title": {
+        "froggie92": [
+          "/branding/froggie92"
+        ],
+        "wommytilliams": [
+          "/branding/wommytilliams"
+        ],
+        "technomad": [
+          "/branding/technomad"
+        ]
+      }
+    }
+  },
+  "inspiration": {
+    "collection": {
+      "/inspiration/inspiration": {
+        "title": "inspiration",
+        "published": true,
+        "date": "2015-04-15 19:26:51 UTC",
+        "slug": "/inspiration/inspiration",
+        "body": "\n<p>here i want to list a few words that my design exemplifies</p>\n\n<blockquote>\n  <p>simple<br />\nconcise<br />\nclean<br />\neloquent<br />\nminimal</p>\n</blockquote>\n\n<p>and a few websites that have inspired me.</p>\n\n<blockquote>\n  <p><a href=\"http://facsrv.cdm.depaul.edu/~cmiller/\">http://facsrv.cdm.depaul.edu/~cmiller/</a><br />\n- a teacher of mine, one of the first websites i encountered that put <a href=\"http://ims21.net/web_form_function.htm\">function over form</a></p>\n</blockquote>\n\n<blockquote>\n  <p><a href=\"http://itemsandthings.com/\">http://itemsandthings.com/</a><br />\n-  one of my favorite music labels. their brand's dedication to minimalism is conveyed thoroughly, from their music to their web design.<br />\n- <a href=\"http://www.wanna-rework.de/\">http://www.wanna-rework.de/</a><br />\n- - one of the musicians websites on the above label </p>\n</blockquote>\n\n<p>and a few quotes that have inspired me</p>\n\n<p><a href=\"http://i.imgur.com/0MAncfi.png\"><img src=\"http://i.imgur.com/0MAncfi.png\" width=\"100%\" /></a><br />\n<!-- http://www.reddit.com/r/terencemckenna/comments/32rp8t/a_quote_that_really_grabbed_me_from_terences/ --></p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429126011.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-15T14:26:51-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "inspiration": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "transliterated-title": {
+        "inspiration": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "slug": {
+        "/inspiration/inspiration": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "transliterated-slug": {
+        "/inspiration/inspiration": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "month": {
+        "04": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "ticks": {
+        "1429126011.0": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/inspiration/inspiration"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-15t14:26:51-05:00": [
+          "/inspiration/inspiration"
+        ]
+      }
+    }
+  },
+  "hobbies": {
+    "collection": {
+      "/hobbies/biking": {
+        "title": "biking",
+        "published": true,
+        "date": "2015-04-22 23:11:09 UTC",
+        "slug": "/hobbies/biking",
+        "body": "\n<p>this will be my 6th year biking in chicago</p>\n\n<p>check out my biking video <a href=\"/media#create a fresh path\">here</a></p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429744269.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-22T18:11:09-05:00"
+      },
+      "/hobbies/kungfu": {
+        "title": "kungfu",
+        "published": true,
+        "date": "2015-04-22 23:11:09 UTC",
+        "slug": "/hobbies/kungfu",
+        "body": "\n<p>ive been practicing kungfu for over a year now</p>\n\n<p><a href=\"/media#wing chun videos\">i have a couple videos on my media page</a></p>\n\n<p>ive also been working on their website<br />\nyou can see the entry on my <a href=\"/experience/clients#wingChun\">client page here</a></p>\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429744269.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-22T18:11:09-05:00"
+      },
+      "/hobbies/psych": {
+        "title": "psych",
+        "published": true,
+        "date": "2015-04-22 23:11:09 UTC",
+        "slug": "/hobbies/psych",
+        "body": "\n<p>my psych career is long and winding</p>\n\n<p>my first introduction to psychology was through <a href=\"http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator\">myers briggs</a></p>\n\n<!-- \ngrowing up, \nthe idea of &#39;everyone is equal&#39; was understood as &#39;everyone is the same&#39;\nmyers briggs gave me a framework to differentiate people&#39;s reactions\n\nmyers briggs ended up being very basic\nit didnt give me the depth that i was seeing\n\ni would spend hours trawling google\ntyping in different search terms for interactions i was seeing\n\nthe jungian dichotomies ala myers briggs are as follows\nintroversion / extraversion\nsensing / intuition\nthinking / feeling\njudgment / perception\n\njung dichotomy\n\nsharing jungian base\n -->\n\n<p>hours of trawling google led me to</p>\n\n<h3>socionics</h3>\n<p>socionics was everything i was looking for</p>\n\n<p>socionics' <a href=\"http://www.wikisocion.org/en/index.php?title=Rationality_and_irrationality#Typical_characteristics\">rationality / irrationality</a> replaces mbti's judgment / perception<br />\nmbti's judgment / perception still exists within socionics, but it is instead a second level dichotomy, <a href=\"http://www.wikisocion.org/en/index.php?title=Static_and_dynamic#Typical_characteristics\">static / dynamic</a></p>\n\n<!-- this change made huge changes\nmbti's judgment / perception determines what your extraverted function is\ni never quite got this / it never made sense\nsocionics in turn explains it well\njudgment / perception exists in socionics\nbut it is a second level dichotomy,  -->\n\n<p>socionics goes into much greater detail than myers briggs:</p>\n\n<blockquote>\n  <p><a href=\"http://www.wikisocion.org/en/index.php?title=Intertype_relations\">intertype relations</a> - descriptions of interactions between types<br />\n<a href=\"http://www.wikisocion.org/en/index.php?title=Small_groups\">small groups</a> - common ground between types<br />\n<a href=\"http://www.wikisocion.org/en/index.php?title=Subtypes\">subtypes</a> - no two types are the same<br />\n<a href=\"http://www.wikisocion.org/en/index.php?title=Model_A\">model a</a> - <br />\n<a href=\"http://www.wikisocion.org/en/index.php?title=Reinin_dichotomies\">second level dichotomies</a><br />\n<a href=\"http://www.wikisocion.org/en/index.php?title=Information_elements\">information elements</a><br />\n<a href=\"http://www.wikisocion.org/en/index.php?title=Functions\">functions</a> which allows for <a href=\"http://www.wikisocion.org/en/index.php?title=Function_dichotomies\">functional dichotomies</a></p>\n</blockquote>\n\n<!-- male female differentiations -->\n\n<p><a href=\"http://www.wikisocion.org/en/index.php?title=Information_Metabolism\">information metabolism</a> - can be simplied as follows:<br />\nevery action you do, is based on information.  </p>\n\n<h3>horoscopes</h3>\n\n<p><a href=\"http://www.thesecretlanguage.com/today/\">the secret language</a><br />\nmy number one to-go-to</p>\n\n<blockquote>\n  <p>here you can check <a href=\"http://www.thesecretlanguage.com/check/birthdate/\">your or anothers birthday</a><br />\n( check you and a parent )<br />\nand <a href=\"http://www.thesecretlanguage.com/check/relationship/\">your relationships with other people</a><br />\n( check an old or current flame )</p>\n</blockquote>\n\n<p><a href=\"http://astro.cafeastrology.com/\">cafe astrology</a></p>\n\n<blockquote>\n  <p>i personally like their <a href=\"http://astro.cafeastrology.com/cgi-bin/astro/natal\">natal chart</a><br />\nand their <a href=\"http://astro.cafeastrology.com/cgi-bin/astro/comp2f\">relationship chart</a></p>\n</blockquote>\n\n<h3>tarot year</h3>\n<p><a href=\"http://www.tarotschool.com/Calculator.html\">heres a easy calculator i just found</a></p>\n\n<blockquote>\n  <p>for example:<br />\ni want to check for my current year<br />\nsince my birthday has not happened yet, i check for last year</p>\n</blockquote>\n\n<p><a href=\"http://accessnewage.com/articles/Tarot/lottar2.htm\">long description</a><br />\n<a href=\"http://www.cosmictarot.co.uk/discover-your-personal-year-card/\">short description</a></p>\n\n<p><a href=\"http://thetarotroom.com/tarot-growth-cards/\">this site has more descriptions</a> <br />\nbut you have to know your number, use calc above</p>\n\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429744269.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-22T18:11:09-05:00"
+      }
+    },
+    "index": {
+      "title": {
+        "biking": [
+          "/hobbies/biking"
+        ],
+        "kungfu": [
+          "/hobbies/kungfu"
+        ],
+        "psych": [
+          "/hobbies/psych"
+        ]
+      },
+      "transliterated-title": {
+        "biking": [
+          "/hobbies/biking"
+        ],
+        "kungfu": [
+          "/hobbies/kungfu"
+        ],
+        "psych": [
+          "/hobbies/psych"
+        ]
+      },
+      "slug": {
+        "/hobbies/biking": [
+          "/hobbies/biking"
+        ],
+        "/hobbies/kungfu": [
+          "/hobbies/kungfu"
+        ],
+        "/hobbies/psych": [
+          "/hobbies/psych"
+        ]
+      },
+      "transliterated-slug": {
+        "/hobbies/biking": [
+          "/hobbies/biking"
+        ],
+        "/hobbies/kungfu": [
+          "/hobbies/kungfu"
+        ],
+        "/hobbies/psych": [
+          "/hobbies/psych"
+        ]
+      },
+      "month": {
+        "04": [
+          "/hobbies/biking",
+          "/hobbies/kungfu",
+          "/hobbies/psych"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/hobbies/biking",
+          "/hobbies/kungfu",
+          "/hobbies/psych"
+        ]
+      },
+      "ticks": {
+        "1429744269.0": [
+          "/hobbies/biking",
+          "/hobbies/kungfu",
+          "/hobbies/psych"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/hobbies/biking",
+          "/hobbies/kungfu",
+          "/hobbies/psych"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-22t18:11:09-05:00": [
+          "/hobbies/biking",
+          "/hobbies/kungfu",
+          "/hobbies/psych"
+        ]
+      }
+    }
+  },
+  "home": {
+    "collection": {
+      "/home/introduction": {
+        "published": true,
+        "date": "2015-04-22 23:11:09 UTC",
+        "slug": "/home/introduction",
+        "body": "\n<p><img src=\"assets/img/wommyBig.jpg\" class=\"wommyImg\" /></p>\n\n<h2>welcome to my portfolio</h2>\n\n<p>feel free to check out </p>\n\n<blockquote>\n  <p><a href=\"/media\">my media</a><br />\n<a href=\"/experience/clients\">my clients</a></p>\n</blockquote>\n\n<blockquote>\n  <p>my experiments</p>\n</blockquote>\n\n<blockquote>\n  <blockquote>\n    <p><a href=\"/experiments/feed\">feed</a><br />\n<a href=\"/experiments/grid\">grid</a></p>\n  </blockquote>\n</blockquote>\n\n",
+        "month": "04",
+        "year": "2015",
+        "ticks": 1429744269.0,
+        "mixture_month_year": "04/2015",
+        "mixture_date": "2015-04-22T18:11:09-05:00"
+      }
+    },
+    "index": {
+      "slug": {
+        "/home/introduction": [
+          "/home/introduction"
+        ]
+      },
+      "transliterated-slug": {
+        "/home/introduction": [
+          "/home/introduction"
+        ]
+      },
+      "month": {
+        "04": [
+          "/home/introduction"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/home/introduction"
+        ]
+      },
+      "ticks": {
+        "1429744269.0": [
+          "/home/introduction"
+        ]
+      },
+      "mixture_month_year": {
+        "04/2015": [
+          "/home/introduction"
+        ]
+      },
+      "mixture_date": {
+        "2015-04-22t18:11:09-05:00": [
+          "/home/introduction"
+        ]
+      }
+    }
+  }
+}

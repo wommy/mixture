@@ -1,0 +1,33 @@
+{% block subnav %} <!-- TODO: script for collections -->
+	{% if mixture.url == 'experience/clients' %}
+		{% collection 'clients' order asc %}
+			<nav id='subnav' class='selected'>
+				<a href="#" class="pinned">top of page</a>
+				{% comment %}<a href="#resume" class="pinned">resume</a>
+				<a href="#clients" class="pinned">clients</a>{% endcomment %}
+				{% for post in collection.items %}
+					<a href="#{{post.title}}">{{post.title | downcase}}</a>
+				{% endfor %}
+			</nav>
+		{% endcollection %}
+	{% endif %}
+	{% if mixture.url == 'media' %}
+		{% collection 'media' order asc %}
+			<nav id='subnav' class='selected'>
+				<a href="#" class="pinned">top of page</a>
+				{% for post in collection.items %}
+					<a href="#{{post.title}}">{{post.title | downcase}}</a>
+				{% endfor %}
+			</nav>
+		{% endcollection %}
+	{% endif %}
+	{% if mixture.url == 'experience/resume' %}
+		{% collection 'media' order asc %}
+			<nav id='subnav' class='selected'>
+				<a href="#" class="pinned">top of page</a>
+				<a href="/assets/resume-tommyWilliams-headshot.pdf" target="_blank">view in a new tab</a>
+				<a href="/assets/resume-tommyWilliams-headshot.pdf" download>download</a>
+			</nav>
+		{% endcollection %}
+	{% endif %}
+{% endblock %}

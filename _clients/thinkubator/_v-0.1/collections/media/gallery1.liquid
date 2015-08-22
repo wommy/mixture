@@ -1,0 +1,59 @@
+---
+title: 'Gallery1'
+published: true
+---
+{% block styles %}
+	<link href="assets/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" />
+{% endblock %}
+{% block scripts %}
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="assets//jquery.bxslider/jquery.bxslider.min.js"></script>
+{% endblock %}
+
+{% comment %}{% collection 'gallery1' %}
+	{% for post in collection.items reversed %}
+		<article>
+			<h1>{{  post.title  }}</h1>
+			{{  post.body  }}
+		</article>
+	{% endfor %}
+{% endcollection %}{% endcomment %}
+
+<ul class="bxslider">
+	<li><img src="assets/img/gallery1/Slide01.png"/></li>
+	<li><img src="assets/img/gallery1/Slide02.png"/></li>
+	<li><img src="assets/img/gallery1/Slide03.png"/></li>
+	<li><img src="assets/img/gallery1/Slide04.png"/></li>
+	<li><img src="assets/img/gallery1/Slide05.png"/></li>
+	<li><img src="assets/img/gallery1/Slide06.png"/></li>
+	<li><img src="assets/img/gallery1/Slide07.png"/></li>
+	<li><img src="assets/img/gallery1/Slide08.png"/></li>
+	<li><img src="assets/img/gallery1/Slide09.png"/></li>
+	<li><img src="assets/img/gallery1/Slide10.png"/></li>
+	<li><img src="assets/img/gallery1/Slide11.png"/></li>
+	<li><img src="assets/img/gallery1/Slide12.png"/></li>
+	<li><img src="assets/img/gallery1/Slide13.png"/></li>
+	<li><img src="assets/img/gallery1/Slide14.png"/></li>
+	<li><img src="assets/img/gallery1/Slide15.png"/></li>
+	<li><img src="assets/img/gallery1/Slide16.png"/></li>
+	<li><img src="assets/img/gallery1/Slide17.png"/></li>
+	<li><img src="assets/img/gallery1/Slide18.png"/></li>
+	<li><img src="assets/img/gallery1/Slide19.png"/></li>
+	<li><img src="assets/img/gallery1/Slide20.png"/></li>
+	<li><img src="assets/img/gallery1/Slide21.png"/></li>
+	<li><img src="assets/img/gallery1/Slide22.png"/></li>
+	<li><img src="assets/img/gallery1/Slide23.png"/></li>
+	<li><img src="assets/img/gallery1/Slide24.png"/></li>
+	<li><img src="assets/img/gallery1/Slide25.png"/></li>
+	<li><img src="assets/img/gallery1/Slide26.png"/></li>
+	<li><img src="assets/img/gallery1/Slide27.png"/></li>
+</ul>
+
+<script>
+	$(document).ready(function(){
+		$('.bxslider').bxSlider({
+			mode: 'horizontal'
+		});
+	});
+</script>
+

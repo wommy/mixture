@@ -1,0 +1,13 @@
+=layout :home
+-content_for :title do
+	%title Mixture + Haml
+
+%h1
+	Haml
+%p
+	#{model["description"]}
+	#{model["butts"]}
+	-# TODO: complete this project
+
+#side-nav
+	=render :nav_social_long

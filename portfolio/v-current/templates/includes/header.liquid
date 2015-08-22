@@ -1,0 +1,6 @@
+<nav id="mobileNav" onclick="toggle( 'toggleMe' )">
+	<img src='/assets/img/hamburger.svg' id="hamburger"/>
+	<nav id="toggleMe" style="display:none;">
+		{{ mixture.sitemap | navigation: mixture.url,'','', 'selected' }}
+	</nav>
+</nav>

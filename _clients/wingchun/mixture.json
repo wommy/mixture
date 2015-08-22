@@ -1,0 +1,26 @@
+{
+  "convertHtml": { "relativePaths": false },
+
+  "type": "mixture",
+
+  "projectName": "wingchun",
+  "projectDescription": "v1",
+
+  "preprocessorLocations": [ "assets" ],
+  "preprocessorScriptOutput": null,
+  "preprocessorStyleOutput": null,
+
+  "templateDirectory": "templates",
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+
+  "sitemap": true,
+  "optimiseImages": true,
+  "optimiseSVG": true,
+
+  "debug": false,
+  "lintScripts": false,
+  "domain": null,
+  "followLeader": true,
+  "password": null
+}

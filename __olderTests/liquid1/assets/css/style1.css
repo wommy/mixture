@@ -1,0 +1,80 @@
+body{
+	margin:0;
+	background-color: #EEE;
+	font-family:tahoma,sans-serif;
+	font-variant: small-caps;
+}
+
+#mainNav, #content{
+	display:inline-block;
+	vertical-align: top;
+}
+
+div#mainNav{
+	width:30%;
+	position:fixed;
+	margin:5rem 0;
+}
+
+	nav{
+		margin:0 0 2rem 5rem;
+	}
+
+	nav a{
+		display:block;
+		margin:.5rem 0;
+	}
+
+	#mainNav h2{
+		margin-bottom: .5rem;
+	}
+
+	a img, a h2{
+		display:inline;
+		vertical-align: middle;
+	}
+
+	.social{
+		width: 2rem;
+		height: 2rem;
+	}
+
+	#social a{
+		margin-left:.5rem;
+	}
+
+	a h2{
+		line-height: 2rem;
+	}
+
+a{
+	text-decoration: none;
+}
+
+#content{
+	width: 70%;
+	line-height: 2rem;
+	margin: 3rem 0 0 0;
+	margin-left: 15rem;
+}
+
+#content article{
+	padding:4rem;
+	margin:3rem;
+	background-color: #FFF;
+	font-variant: normal;
+}
+
+#grid{
+	margin:0 1.5rem;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+
+#grid article{
+	width:20%;
+	padding:2rem;
+	margin:0 .5rem 2rem;
+}
+

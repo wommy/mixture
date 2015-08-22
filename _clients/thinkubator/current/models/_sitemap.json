@@ -1,0 +1,32 @@
+[
+  {
+    "directory": false,
+    "key": "index",
+    "name": "Index",
+    "url": "/index"
+  },
+  {
+    "directory": false,
+    "key": "news",
+    "name": "News",
+    "url": "/news"
+  },
+  {
+    "directory": false,
+    "key": "rentfaq",
+    "name": "Rentfaq",
+    "url": "/rentfaq"
+  },
+  {
+    "directory": false,
+    "key": "videosAndPhotos",
+    "name": "Videosandphotos",
+    "url": "/videosAndPhotos"
+  },
+  {
+    "directory": false,
+    "key": "yourexperience",
+    "name": "Yourexperience",
+    "url": "/yourexperience"
+  }
+]

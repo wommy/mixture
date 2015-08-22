@@ -1,0 +1,44 @@
+[
+  {
+    "directory": false,
+    "key": "index",
+    "name": "Index",
+    "url": "/index"
+  },
+  {
+    "directory": false,
+    "key": "filler1",
+    "name": "Filler1",
+    "url": "/filler1"
+  },
+  {
+    "directory": false,
+    "key": "filler2",
+    "name": "Filler2",
+    "url": "/filler2"
+  },
+  {
+    "directory": false,
+    "key": "filler3",
+    "name": "Filler3",
+    "url": "/filler3"
+  },
+  {
+    "directory": false,
+    "key": "filler4",
+    "name": "Filler4",
+    "url": "/filler4"
+  },
+  {
+    "directory": false,
+    "key": "filler5",
+    "name": "Filler5",
+    "url": "/filler5"
+  },
+  {
+    "directory": false,
+    "key": "filler6",
+    "name": "Filler6",
+    "url": "/filler6"
+  }
+]

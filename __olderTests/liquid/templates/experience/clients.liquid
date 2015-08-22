@@ -1,0 +1,33 @@
+{% layout "layout" %}
+
+{% block title %} {{mixture.url | remove:'experience/'}} {% endblock %}
+
+{% comment %}
+{% block subnav %} <!-- generate page nav -->
+	{% collection 'clients' order asc %}
+		<nav id='subnav' class='selected'>
+			<a href="#" style="border-bottom:dotted .125rem blue;padding:.5rem;">jump to top</a>
+			{% for post in collection.items %}
+				<a href="#{{post.title}}">{{post.title | downcase}}</a>
+			{% endfor %}
+		</nav>
+	{% endcollection %}
+{% endblock %}
+{% endcomment %}
+
+{% block content %} {% comment %} display feed {% endcomment %}
+	{% collection 'clients' order asc %}
+		{% for post in collection.items %}
+			<article id='{{post.title}}'>
+				<h2><a href="#{{post.title}}">{{post.title | downcase}}</a></h2>
+				{{  post.body  }}
+			{% comment %} 
+				{% unless post.title == 'manifest' %}
+					<hr />
+					<a style='float:right' href='#'>jump to top</a>
+				{% endunless %}
+			{% endcomment %}
+			</article>
+		{% endfor %}
+	{% endcollection %}
+{% endblock %}

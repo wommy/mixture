@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Title block allowing child pages to override -->
+        <title>{% block title %}Scalercio 4 Real Estate{% endblock %}</title>
+        <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+        <!-- Styles -->
+        {{ "app.css" | asset_url | stylesheet_tag }}
+        <!-- Style block allowing child pages to inject their own styles -->
+        {% block styles %}{% endblock %}
+    </head>
+    <body>
+        {% comment %}<div id="wrapper">{% endcomment %}
+            <!-- Include -->
+                {% comment %}{% include "header" %}{% endcomment %}
+            <!-- Content block, child page inject content -->
+            {% block content %}{% endblock %}
+        {% comment %}</div>{% endcomment %}
+        <!-- Script block allowing child pages to inject their own scripts -->
+        {% block scripts %}{% endblock %}
+        {{ "app.js" | asset_url | script_tag }}
+    </body>
+</html>

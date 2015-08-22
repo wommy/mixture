@@ -1,0 +1,28 @@
+<nav id='social'>
+	<h2>contact</h2>
+	{% comment %}<a href='tel:{{ global.phone }}' target="_blank">
+		<img class='social' src='/assets/img/social/phone.svg' />
+		<h2>{{ global.phone }}</h2>
+	</a>{% endcomment %}
+	<a href='mailto:{{ global.email }}?Subject=Job | from wommytilliams.com' target="_blank">
+		<img class='social' src='/assets/img/social/email.svg'>
+		<h2>{{ global.email }}</h2>
+	</a>
+	{% comment %}<h2>social media</h2>{% endcomment %}
+	<a href='#' onclick=" noDiscriminate(' {{ global.facebook }} ') ">
+		<img class='social' src='/assets/img/social/facebook.svg'>
+		<h2>facebook</h2>
+	</a>
+	<a href='#' onclick=" noDiscriminate(' {{ global.twitter }} ') ">
+		<img class='social' src='/assets/img/social/twitter.svg'>
+		<h2>twitter</h2>
+	</a>
+	<a href='#' onclick=" noDiscriminate(' {{ global.googleplus }} ') ">
+		<img class='social' src='/assets/img/social/google-plus.svg'>
+		<h2>google+</h2>
+	</a>
+	<a href='#' onclick=" noDiscriminate(' {{ global.instagram }} ') ">
+		<img class='social' src='/assets/img/social/instagram.svg'>
+		<h2>instagram</h2>
+	</a>
+</nav>

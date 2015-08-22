@@ -1,0 +1,99 @@
+body{
+	margin:1rem;
+	background-color: #EEE;
+	font-family:tahoma,sans-serif;
+	font-variant: small-caps;
+}
+
+a{
+	text-decoration: none;
+}
+
+#mainNav, #content{
+	display:inline-block;
+	vertical-align: top;
+	margin:2rem 0;
+}
+
+#mainNav{
+	position:fixed;
+	left: 1.5rem;
+	top:2rem;
+}
+
+	nav{
+		margin-left:2rem;
+		text-align: left;
+	}
+
+	nav a{
+		display:block;
+		padding: .25rem;
+		width: auto;
+	}
+
+		a:link {
+			color: auto;
+		}
+
+		nav a:visited{
+			color: #0000EE;
+		}
+
+		nav a:hover{
+			background-color: #E11;
+			color: white;
+		}
+
+		nav a:active, nav a:focus{
+			background-color: #111;
+			color: white;
+		}
+
+	#mainNav h2{
+		margin-bottom:0;
+	}
+
+	a img, a h2{
+		display:inline;
+		vertical-align: bottom;
+	}
+
+	.social{
+		width: 2rem;
+		height: 2rem;
+	}
+
+	a h2{
+		line-height: 2rem;
+	}
+
+#content{
+	width: 80%;
+	line-height: 2.5rem;
+	margin-top:1rem;
+	margin-left: 14rem;
+	margin-bottom:0;
+}
+
+	#content article{
+		padding:1rem 3rem;
+		margin:1rem 3rem 3rem;
+		background-color: #FFF;
+		font-variant: normal;
+		font-size: 125%;
+	}
+
+#grid{
+	margin:0 1.5rem;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+
+	#grid article{
+		width:20%;
+		padding:2.5rem;
+		margin:0 0 2.5rem 0;
+	}
+

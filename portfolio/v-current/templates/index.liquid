@@ -1,0 +1,33 @@
+{% layout "layout" %}
+
+{% block title %}wommytilliams{% endblock %}
+
+{% block content %}
+	{% collection 'home' order asc %}
+		{% for post in collection.items %}
+			<article id='{{post.title}}'>
+				{{  post.body  }}
+			</article>
+		{% endfor %}
+	{% endcollection %}
+	{% collection 'inspiration' order asc %}
+		{% for post in collection.items %}
+			<article id='{{post.title}}'>
+				<h2><a href="#{{post.title}}">{{post.title | downcase}}</a></h2>
+				{{  post.body  }}
+			</article>
+		{% endfor %}
+	{% endcollection %}
+	{% collection 'hobbies' order asc %}
+		<article id='hobbies'>
+		<h1><a href="#hobbies">hobbies :: aspects that define me</a></h1>
+		<hr />
+		{% for post in collection.items %}
+			<div id='{{post.title}}'>
+				<h2 id='{{post.title}}'>{{post.title | downcase}}</h2>
+				{{  post.body  }}
+			</div>
+		{% endfor %}
+		</article>
+	{% endcollection %}
+{% endblock %}

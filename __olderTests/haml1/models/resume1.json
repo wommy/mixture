@@ -1,0 +1,110 @@
+{
+	"description": "Beautiful, DRY, well-indented, clear markup. A simple example of Haml in Mixture."
+}
+
+resume
+
+TOMMY WILLIAMS
+picture
+portfolio:   techNomad.media
+email:   tom@techNomad.media
+phone:   312 818 9011
+address:   1426 W Chestnut #1R Chicago IL 60642
+four year goal:   Senior Full Stack Developer at a media company
+
+education
+   depaul graduated 2015
+      bachelor of arts: psychology
+      minor: interactive social media
+      dean's list: 5 quarters
+   columbia college ( 2 years )
+      film + music composition
+      honor roll: 2 semesters
+
+field experience
+   solution people
+      managed 30+ websites
+      redesign
+      created, edited, pushed content
+   branding
+      3 brands over 12 years
+         froggie92 - wommy tilliams - techNomad
+      ?# clients
+         x, y, z
+
+areas of expertise
+   design development deploy data
+
+ui ux - minor in school
+   ?# of projects
+   mockups / wireframes / site-mapping
+      balsamiq
+      axure
+      sketch
+      atomic
+   physical media
+      paper prototypes
+      hci
+   front end / back end :: gui / db
+      pass to dev
+
+frontEnd - started 2011
+   HTML5
+      jade / haml / slim
+      bootstrap
+      foundation
+   CSS3
+      less / stylus
+      scss - compass
+   JS
+      jQuery
+      coffeeScript
+      js hint
+      JSON / AJAX
+      three
+
+backEnd languages / frameworks :: cms / ecommerce
+   php
+      wordpress / drupal / joomla
+      laravel / symphony + sylius
+      composer
+      zend
+   ruby
+      rails
+      jekyll
+   python
+      django
+      magento
+      flask
+      hyde
+      pelican
+   javascript
+      angular / backbone / ember / knockout / meteor
+      require / express
+      react + flux
+      node
+         ghost
+
+database
+   mySQL
+   postgreSQL
+   noSQL - mongo
+
+deployment
+   yeoman
+   grunt gulp
+   npm bower require browserify
+   capistrano
+
+others
+   adobe - illustrator / photoshop
+   rapid prototyping - agile
+   github / ssh / ssl / ftp
+   psych
+      test creation
+      data collection
+      statistical analysis
+
+hobbies
+   kungfu - 1 year
+   biking - 7

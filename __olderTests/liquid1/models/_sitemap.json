@@ -1,0 +1,20 @@
+[
+  {
+    "directory": false,
+    "key": "index",
+    "name": "Index",
+    "url": "/index"
+  },
+  {
+    "directory": false,
+    "key": "about",
+    "name": "About",
+    "url": "/about"
+  },
+  {
+    "directory": false,
+    "key": "resume",
+    "name": "Resume",
+    "url": "/resume"
+  }
+]

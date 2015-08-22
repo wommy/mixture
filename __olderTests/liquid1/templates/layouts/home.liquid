@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Title block allowing child pages to override -->
+        <title>{% block title %}Empty{% endblock %}</title>
+        <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+        <!-- Styles -->
+        {{ "style2.css" | asset_url | stylesheet_tag }}
+        <!-- Style block allowing child pages to inject their own styles -->
+        {% block styles %}{% endblock %}
+    </head>
+    <body>
+        {% include "nav" %}
+        {% include "content" %}
+    </body>
+</html>

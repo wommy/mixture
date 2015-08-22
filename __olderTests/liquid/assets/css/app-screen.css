@@ -1,0 +1,140 @@
+/* TODO: link colors - http://www.w3schools.com/cssref/css_colors_legal.asp*/
+
+
+@media only screen {
+	#content{
+		position:absolute;
+		top:10%;
+		height:80%;
+		width:100%;
+		line-height: 1.6rem;
+	}
+
+		#content article{
+			padding:2rem 3rem;
+			margin:1rem 3rem 3rem;
+			background-color: #FFF;
+			font-size:125%;
+			border-radius:1rem;
+		}
+
+	.wommyImg{
+		height: 45rem;
+		width: 30rem;
+	}
+
+	.mobile-Nav{
+		width:100%;
+		background-color:yellow;
+		position:fixed;
+		height:10%;
+		font-size:8rem;
+	}
+	.mobile-nav-top{
+		top:0;
+	}
+	.mobile-nav-bottom{
+		bottom:0;
+	}
+	.mobile-icon{
+		height:4rem;
+		width:4rem;
+	}
+
+
+	body{
+		background-color: #EEE;
+		font-family:tahoma,sans-serif;
+		font-variant:small-caps;
+		margin:0;
+	}
+
+	a{
+		text-decoration:none;
+		font-weight:bold;
+	}
+
+	h3{
+		border-bottom:solid .125rem black;
+		font-weight:normal;
+		padding-left: 2.5rem;
+		margin:2rem 0;
+		font-size:2rem;
+		padding-bottom:.25rem;
+		margin-bottom:.5rem;
+	}
+
+	p{
+		margin:.75rem 0;
+	}
+
+	blockquote{
+		margin:.75rem 0;
+		margin-left:1.5rem;
+	}
+
+			nav a, nav h2, h2 span{
+				display:block;
+				padding:.125rem .5rem;
+				width: auto;
+				margin:0;
+				font-size:1.25rem;
+			}
+
+			h2 nav{
+				margin-left:1rem;
+			}
+
+			a:link, a:visited {
+				/*color:hsla(240, 100%, 50%, 1);*/
+				color:hsla(220, 75%, 45%, 1);
+			}
+
+			a:hover{
+				/*color:hsla(240, 100%, 50%, .3);*/
+				color:hsla(220, 75%, 45%, .7);
+			}
+
+			a:active, a:focus{
+				color:none;
+			}
+
+				a[name], h2[name]{
+					text-decoration:underline;
+				}
+
+				:target{
+					/*background-color:hsla(240, 100%, 50%, .3);*/
+					background-color:hsla(220, 75%, 45%, .7);
+				}
+
+				article:target{
+					/*border: hsla(240, 100%, 50%, .3) groove thick;*/
+					border: hsla(220, 50%, 45%, .7) groove thick;
+					border-radius:.25rem;
+				}
+
+			.selected{
+				background-color:white;
+				border-radius:.25rem;
+				border-right:dashed .125rem #EEE;
+			}
+
+				.selected a{
+					border-right:none;
+				}
+
+		a img, a h2, h2 a{
+			display:inline;
+			vertical-align: bottom;
+		}
+
+			img + h2{
+				padding-left:0;
+			}
+
+		a h2, h2 a{
+			line-height: 2rem;
+		}
+}
+

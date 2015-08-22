@@ -1,0 +1,75 @@
+body{
+	margin:1rem;
+	font-family:sans-serif;
+	font-size:80%;
+}
+
+img, div{
+	display:inline-block;
+	vertical-align:top;	
+}
+
+div{
+	width:65%;
+}
+
+.headshot{
+	width:17.75rem; /*427*/
+	height:26.667rem; /*640*/
+	margin-left: 3rem;
+	margin-top: 2rem;
+	margin-right: 2rem;
+}
+
+.century21{
+	width:10rem; /*1290*/
+	height:5rem; /*660*/
+	/*float:right;*/
+}
+
+.testimonial{
+	width:80%;
+	font-size:1rem;
+	margin: 1rem .5rem;
+}
+
+h2, a{
+	vertical-align:top;
+	font-size:1.125rem;
+}
+
+a{
+	text-decoration:none;
+}
+
+h3{
+	margin:.25rem;
+	margin-left:1.5rem;
+	margin-top: 0;
+	font-size:1.5rem;
+	margin-bottom:1rem;
+}
+
+div, h2, a{
+	display:inline-block;
+}
+
+img, div, h2, a{
+	margin:.125rem;
+}
+
+h1{
+	font-size:3rem;
+	margin:.5rem;
+	margin-bottom: 0;
+}
+
+span{
+	display:block;
+	margin: .125rem;
+}
+
+p{
+	margin: .5rem 0;
+	text-align:justify;
+}

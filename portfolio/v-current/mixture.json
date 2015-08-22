@@ -1,0 +1,30 @@
+{
+  "convertHtml": {
+    "extension": ".html",
+    "relativePaths": true,
+    "default": null
+  },
+
+  "type": "mixture",
+
+  "projectName": "portfolio",
+  "projectDescription": "v-current",
+
+  "preprocessorLocations": [ "assets" ],
+  "preprocessorScriptOutput": null,
+  "preprocessorStyleOutput": null,
+
+  "templateDirectory": "templates",
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+
+  "sitemap": true,
+  "optimiseImages": true,
+  "optimiseSVG": true,
+
+  "debug": false,
+  "lintScripts": false,
+  "domain": null,
+  "followLeader": true,
+  "password": null
+}
