@@ -1,6 +1,5 @@
 ---
 title: biking
-published: true
 ---
 this will be my 6th year biking in chicago
 

@@ -1,6 +1,5 @@
 ---
 title: inspiration
-published: false
 ---
 ##media
 

@@ -1,6 +1,5 @@
 ---
 title: wing chun videos
-published: true
 ---
 ###chi-sau-ing with sifu from my helmet  
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jO9N00johrw" frameborder="0" allowfullscreen></iframe>

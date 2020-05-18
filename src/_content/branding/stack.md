@@ -1,6 +1,5 @@
 ---
 title: stack
-published: true
 ---
 here im going to describe my stack
 software used to create my platform

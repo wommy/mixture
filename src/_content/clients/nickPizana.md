@@ -1,6 +1,5 @@
 ---
 title: nickPizana
-published: true
 ---
 an extremely talented artist 
 but also a good friend from highschool

@@ -1,6 +1,5 @@
 ---
 title: psych
-published: true
 ---
 my psych career is long and winding
 

@@ -1,6 +1,5 @@
 ---
 title: resume
-published: true
 ---
 
 

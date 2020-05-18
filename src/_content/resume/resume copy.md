@@ -1,6 +1,5 @@
 ---
 title: resume
-published: false
 ---
 <img src="assets/img/wommyBig.jpg" height="450" width="300" />  
 TOMMY WILLIAMS  

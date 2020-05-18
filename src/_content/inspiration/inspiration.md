@@ -1,6 +1,5 @@
 ---
 title: inspiration
-published: true
 ---
 here i want to list a few words that my design exemplifies
 

@@ -1,5 +1,4 @@
 ---
-published: true
 ---
 <img src="assets/img/wommyBig.jpg" class="wommyImg">
 

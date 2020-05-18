@@ -1,6 +1,5 @@
 ---
 title: wingChun
-published: true
 ---
 i&#39;ve been practicing kungfu for over a year now 
 the brand is currently overhauling everything 

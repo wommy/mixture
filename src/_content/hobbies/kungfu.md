@@ -1,6 +1,5 @@
 ---
 title: kungfu
-published: true
 ---
 ive been practicing kungfu for over a year now
 
