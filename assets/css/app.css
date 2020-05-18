@@ -32,6 +32,10 @@ blockquote{
 	margin-left:1.5rem;
 }
 
+ol ol {
+	list-style-type: lower-alpha;
+}
+
 #mainNav, #content{
 	display:inline-block;
 	vertical-align: top;
