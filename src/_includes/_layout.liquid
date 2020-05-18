@@ -1,27 +1,26 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <!-- Title block allowing child pages to override -->
-        <title>{% block title %}Empty{% endblock %}</title>
-        <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Styles -->
-        {{ "app.css" | asset_url | stylesheet_tag }}
-        {{ "app-screen.css" | asset_url | stylesheet_tag }}
-        <!-- Style block allowing child pages to inject their own styles -->
-        {% block styles %}{% endblock %}
-    </head>
-    <body>
-        <!-- Include -->
-        {% include "header" %}
-        {% include "nav" %}
-        {% comment %}{% include "nav2" %}{% endcomment %}
-        <!-- Content block, child page inject content -->
-        <div id='content'>
-            {% block content %}{% endblock %}
-        </div>
-        <!-- Script block allowing child pages to inject their own scripts -->
-        {% block scripts %}{% endblock %}
-        {{ "app.js" | asset_url | script_tag }}
-    </body>
+	<head>
+		<!-- Title block allowing child pages to override -->
+		<title>{{title}}</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- Styles -->
+		<link rel="stylesheet" href="/assets/css/app.css">
+		<link rel="stylesheet" href="/assets/css/app-screen.css">
+		<!-- Style block allowing child pages to inject their own styles -->
+		{%- block styles %}{% endblock %}
+	</head>
+	<body>
+		<!-- Include -->
+		{% include header %}
+		{% include nav %}
+		{%- comment %}{% include "nav2" %}{% endcomment %}
+		<!-- Content block, child page inject content -->
+		<div id='content'>
+			{{ content }}
+		</div>
+		<!-- Script block allowing child pages to inject their own scripts -->
+		{%- block scripts %}{% endblock %}
+		<script src="/assets/scripts/app.js"></script>
+	</body>
 </html>
