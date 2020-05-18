@@ -1,4 +1,5 @@
 ---
+layout: _page
 title: resume
 ---
 

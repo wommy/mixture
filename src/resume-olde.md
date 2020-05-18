@@ -1,4 +1,5 @@
 ---
+layout: _page
 title: resume
 ---
 <img src="assets/img/wommyBig.jpg" height="450" width="300" />  
