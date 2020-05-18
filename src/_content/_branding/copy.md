@@ -1,4 +1,5 @@
 ---
+title: copy
 ---
 so a friend of mine asked me what my portfolio does
 
