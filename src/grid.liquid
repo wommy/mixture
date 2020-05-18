@@ -1,7 +1,5 @@
-{% layout "layout" %}
-
-{% block title %}{{mixture.url | remove:'experiments/'}}{% endblock %}
-
-{% block content %}
-	{% include "grid" %}
-{% endblock %}
+---
+layout: _layout
+title: grid
+---
+{% include grid %}
