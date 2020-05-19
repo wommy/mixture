@@ -12,8 +12,11 @@
 	</head>
 	<body>
 		<!-- Include -->
+		{% include nav-script %}
 		{% include header %}
+		{% comment %}
 		{% include nav %}
+		{% endcomment %}
 		{%- comment %}{% include "nav2" %}{% endcomment %}
 		<!-- Content block, child page inject content -->
 		<div id='content'>
