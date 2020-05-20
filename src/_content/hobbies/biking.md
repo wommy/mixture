@@ -2,6 +2,4 @@
 title: biking
 tags: hobbies
 ---
-this will be my 6th year biking in chicago
-
-check out the [biking video](/media#create-a-fresh-path) i made
+i biked for six years in chicago and produced a [video](/media#create-a-fresh-path) about communting during the winter

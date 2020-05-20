@@ -2,9 +2,8 @@
 title: kungfu
 tags: hobbies
 ---
-ive been practicing kungfu for over a year now
+i practiced kungfu for a couple years in chicago
 
-[i have a couple videos on my media page](/media#wing-chun)
+checkout the [videos](/media#wing-chun) i made 
 
-ive also been working on their website  
-see their entry on my [client page](/clients#wing-chun)
+ive also shortly worked on their [website](/clients#wing-chun)
