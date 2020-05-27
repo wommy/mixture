@@ -1,7 +1,7 @@
 ---
 title: biking
-published: true
+tags: hobbies
 ---
 this will be my 6th year biking in chicago
 
-check out my biking video [here](/media#create a fresh path)
+check out the [biking video](/media#create-a-fresh-path) i made

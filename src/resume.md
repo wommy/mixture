@@ -1,6 +1,6 @@
 ---
+layout: _page
 title: resume
-published: true
 ---
 
 

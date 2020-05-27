@@ -1,5 +1,5 @@
 ---
-published: true
+tags: home
 ---
 <img src="assets/img/wommyBig.jpg" class="wommyImg">
 
@@ -7,12 +7,10 @@ published: true
 
 feel free to check out 
 
-> [my media](/media)
-> [my clients](/experience/clients)
+> [my media](/media)  
+> [my clients](/clients)
 
 > my experiments
 
-> > [feed](/experiments/feed)
-> > [grid](/experiments/grid)
-
-
+> > [feed](/feed)  
+> > [grid](/grid)

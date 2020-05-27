@@ -1,6 +1,5 @@
 ---
 title: film//play
-published: true
 ---
 the **Detroit Culture Club** contacted me 
 to create a website 

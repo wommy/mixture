@@ -1,5 +1,5 @@
 <div id='feed'>
-	{% include "feed-article" %}
-	{% include "feed-article" %}
-	{% include "feed-article" %}
+	{% for i in (1..3) %}
+	{% include feed-article %}
+	{% endfor %}
 </div>

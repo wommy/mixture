@@ -1,11 +1,5 @@
 <div id='grid'>
-	{% include "grid-article" %}
-	{% include "grid-article" %}
-	{% include "grid-article" %}
-	{% include "grid-article" %}
-	{% include "grid-article" %}
-	{% include "grid-article" %}
-	{% include "grid-article" %}
-	{% include "grid-article" %}
-	{% include "grid-article" %}
+	{% for i in (1..9) %}
+	{% include grid-article %}
+	{% endfor %}
 </div>

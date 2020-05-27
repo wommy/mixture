@@ -1,6 +1,5 @@
 ---
 title: jOrris
-published: true
 ---
 > lived next to me my sophomore year at columbia
 > cinematographer

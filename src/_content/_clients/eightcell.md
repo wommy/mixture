@@ -1,6 +1,5 @@
 ---
 title: eightcell
-published: true
 ---
 > *the most simple / efficient way*
 > *to catapault your next event*

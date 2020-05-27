@@ -1,6 +1,5 @@
 ---
 title: manifest
-published: false
 ---
 ##<a name=''>jump to client</a>
 

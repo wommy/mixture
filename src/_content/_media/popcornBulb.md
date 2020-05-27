@@ -1,6 +1,5 @@
 ---
 title: popcorn bulb
-published: true
 ---
 short video i acted in for [gerald haman](clients/#geraldHaman)
 

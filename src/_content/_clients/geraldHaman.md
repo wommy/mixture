@@ -1,6 +1,5 @@
 ---
 title: geraldHaman
-published: true
 ---
 bio
 

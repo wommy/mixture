@@ -1,0 +1,18 @@
+---
+layout: _layout
+---
+<article>
+	<h2>jump to</h2>
+	<ol>
+		{%- for post in collections[title] reversed %}
+			<li><a href="#{{ post.data.title | slug }}">{{ post.data.title | downcase }}</a></li>
+		{%- endfor %}
+	</ol>
+</article>
+
+{%- for post in collections[title] reversed %}
+<article id='{{ post.data.title | slug }}'>
+	<h2><a href="#{{ post.data.title | slug }}">{{ post.data.title | downcase }}</a></h2>
+	{{ post.templateContent }}
+</article>
+{%- endfor %}
